@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Jwt_With_CleanArchitecture.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Jwt_With_CleanArchitecture.props" />
+</Project>

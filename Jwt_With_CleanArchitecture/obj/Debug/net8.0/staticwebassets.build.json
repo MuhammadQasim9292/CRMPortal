@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6oXjt3VuhQ5A8+SNHGfG6SoU9L+ciGzDwSuR+ldf+mw=",
+  "Source": "Jwt_With_CleanArchitecture",
+  "BasePath": "_content/Jwt_With_CleanArchitecture",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

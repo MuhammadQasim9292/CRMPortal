@@ -1,0 +1,39 @@
+H:\New folder\Project\bookstore\Common\bin\Debug\net8.0\Common.deps.json
+H:\New folder\Project\bookstore\Common\bin\Debug\net8.0\Common.dll
+H:\New folder\Project\bookstore\Common\bin\Debug\net8.0\Common.pdb
+H:\New folder\Project\bookstore\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+H:\New folder\Project\bookstore\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+H:\New folder\Project\bookstore\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+H:\New folder\Project\bookstore\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+H:\New folder\Project\bookstore\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+H:\New folder\Project\bookstore\Common\obj\Debug\net8.0\Common.sourcelink.json
+H:\New folder\Project\bookstore\Common\obj\Debug\net8.0\Common.dll
+H:\New folder\Project\bookstore\Common\obj\Debug\net8.0\refint\Common.dll
+H:\New folder\Project\bookstore\Common\obj\Debug\net8.0\Common.pdb
+H:\New folder\Project\bookstore\Common\obj\Debug\net8.0\ref\Common.dll
+H:\New folder\bookstore-A_H\bookproject\Common\bin\Debug\net8.0\Common.deps.json
+H:\New folder\bookstore-A_H\bookproject\Common\bin\Debug\net8.0\Common.dll
+H:\New folder\bookstore-A_H\bookproject\Common\bin\Debug\net8.0\Common.pdb
+H:\New folder\bookstore-A_H\bookproject\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+H:\New folder\bookstore-A_H\bookproject\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+H:\New folder\bookstore-A_H\bookproject\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+H:\New folder\bookstore-A_H\bookproject\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+H:\New folder\bookstore-A_H\bookproject\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+H:\New folder\bookstore-A_H\bookproject\Common\obj\Debug\net8.0\Common.sourcelink.json
+H:\New folder\bookstore-A_H\bookproject\Common\obj\Debug\net8.0\Common.dll
+H:\New folder\bookstore-A_H\bookproject\Common\obj\Debug\net8.0\refint\Common.dll
+H:\New folder\bookstore-A_H\bookproject\Common\obj\Debug\net8.0\Common.pdb
+H:\New folder\bookstore-A_H\bookproject\Common\obj\Debug\net8.0\ref\Common.dll
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Common\bin\Debug\net8.0\Common.deps.json
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Common\bin\Debug\net8.0\Common.dll
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Common\bin\Debug\net8.0\Common.pdb
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Common\obj\Debug\net8.0\Common.sourcelink.json
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Common\obj\Debug\net8.0\Common.dll
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Common\obj\Debug\net8.0\refint\Common.dll
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Common\obj\Debug\net8.0\Common.pdb
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Common\obj\Debug\net8.0\ref\Common.dll

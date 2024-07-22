@@ -1,0 +1,66 @@
+H:\New folder\Project\bookstore\Infrastructure\bin\Release\net8.0\Infrastructure.deps.json
+H:\New folder\Project\bookstore\Infrastructure\bin\Release\net8.0\Infrastructure.runtimeconfig.json
+H:\New folder\Project\bookstore\Infrastructure\bin\Release\net8.0\Infrastructure.dll
+H:\New folder\Project\bookstore\Infrastructure\bin\Release\net8.0\Infrastructure.pdb
+H:\New folder\Project\bookstore\Infrastructure\bin\Release\net8.0\Application.dll
+H:\New folder\Project\bookstore\Infrastructure\bin\Release\net8.0\Common.dll
+H:\New folder\Project\bookstore\Infrastructure\bin\Release\net8.0\Domain.dll
+H:\New folder\Project\bookstore\Infrastructure\bin\Release\net8.0\Application.pdb
+H:\New folder\Project\bookstore\Infrastructure\bin\Release\net8.0\Common.pdb
+H:\New folder\Project\bookstore\Infrastructure\bin\Release\net8.0\Domain.pdb
+H:\New folder\Project\bookstore\Infrastructure\obj\Release\net8.0\Infrastructure.csproj.AssemblyReference.cache
+H:\New folder\Project\bookstore\Infrastructure\obj\Release\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+H:\New folder\Project\bookstore\Infrastructure\obj\Release\net8.0\Infrastructure.AssemblyInfoInputs.cache
+H:\New folder\Project\bookstore\Infrastructure\obj\Release\net8.0\Infrastructure.AssemblyInfo.cs
+H:\New folder\Project\bookstore\Infrastructure\obj\Release\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+H:\New folder\Project\bookstore\Infrastructure\obj\Release\net8.0\Infrastructure.sourcelink.json
+H:\New folder\Project\bookstore\Infrastructure\obj\Release\net8.0\Infrastr.15EFFBFE.Up2Date
+H:\New folder\Project\bookstore\Infrastructure\obj\Release\net8.0\Infrastructure.dll
+H:\New folder\Project\bookstore\Infrastructure\obj\Release\net8.0\refint\Infrastructure.dll
+H:\New folder\Project\bookstore\Infrastructure\obj\Release\net8.0\Infrastructure.pdb
+H:\New folder\Project\bookstore\Infrastructure\obj\Release\net8.0\Infrastructure.genruntimeconfig.cache
+H:\New folder\Project\bookstore\Infrastructure\obj\Release\net8.0\ref\Infrastructure.dll
+H:\New folder\bookstore-A_H\bookproject\Infrastructure\bin\Release\net8.0\Infrastructure.deps.json
+H:\New folder\bookstore-A_H\bookproject\Infrastructure\bin\Release\net8.0\Infrastructure.runtimeconfig.json
+H:\New folder\bookstore-A_H\bookproject\Infrastructure\bin\Release\net8.0\Infrastructure.dll
+H:\New folder\bookstore-A_H\bookproject\Infrastructure\bin\Release\net8.0\Infrastructure.pdb
+H:\New folder\bookstore-A_H\bookproject\Infrastructure\bin\Release\net8.0\Application.dll
+H:\New folder\bookstore-A_H\bookproject\Infrastructure\bin\Release\net8.0\Common.dll
+H:\New folder\bookstore-A_H\bookproject\Infrastructure\bin\Release\net8.0\Domain.dll
+H:\New folder\bookstore-A_H\bookproject\Infrastructure\bin\Release\net8.0\Application.pdb
+H:\New folder\bookstore-A_H\bookproject\Infrastructure\bin\Release\net8.0\Common.pdb
+H:\New folder\bookstore-A_H\bookproject\Infrastructure\bin\Release\net8.0\Domain.pdb
+H:\New folder\bookstore-A_H\bookproject\Infrastructure\obj\Release\net8.0\Infrastructure.csproj.AssemblyReference.cache
+H:\New folder\bookstore-A_H\bookproject\Infrastructure\obj\Release\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+H:\New folder\bookstore-A_H\bookproject\Infrastructure\obj\Release\net8.0\Infrastructure.AssemblyInfoInputs.cache
+H:\New folder\bookstore-A_H\bookproject\Infrastructure\obj\Release\net8.0\Infrastructure.AssemblyInfo.cs
+H:\New folder\bookstore-A_H\bookproject\Infrastructure\obj\Release\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+H:\New folder\bookstore-A_H\bookproject\Infrastructure\obj\Release\net8.0\Infrastructure.sourcelink.json
+H:\New folder\bookstore-A_H\bookproject\Infrastructure\obj\Release\net8.0\Infrastr.15EFFBFE.Up2Date
+H:\New folder\bookstore-A_H\bookproject\Infrastructure\obj\Release\net8.0\Infrastructure.dll
+H:\New folder\bookstore-A_H\bookproject\Infrastructure\obj\Release\net8.0\refint\Infrastructure.dll
+H:\New folder\bookstore-A_H\bookproject\Infrastructure\obj\Release\net8.0\Infrastructure.pdb
+H:\New folder\bookstore-A_H\bookproject\Infrastructure\obj\Release\net8.0\Infrastructure.genruntimeconfig.cache
+H:\New folder\bookstore-A_H\bookproject\Infrastructure\obj\Release\net8.0\ref\Infrastructure.dll
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Infrastructure\bin\Release\net8.0\Infrastructure.deps.json
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Infrastructure\bin\Release\net8.0\Infrastructure.runtimeconfig.json
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Infrastructure\bin\Release\net8.0\Infrastructure.dll
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Infrastructure\bin\Release\net8.0\Infrastructure.pdb
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Infrastructure\bin\Release\net8.0\Application.dll
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Infrastructure\bin\Release\net8.0\Common.dll
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Infrastructure\bin\Release\net8.0\Domain.dll
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Infrastructure\bin\Release\net8.0\Application.pdb
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Infrastructure\bin\Release\net8.0\Common.pdb
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Infrastructure\bin\Release\net8.0\Domain.pdb
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Infrastructure\obj\Release\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Infrastructure\obj\Release\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Infrastructure\obj\Release\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Infrastructure\obj\Release\net8.0\Infrastructure.AssemblyInfo.cs
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Infrastructure\obj\Release\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Infrastructure\obj\Release\net8.0\Infrastructure.sourcelink.json
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Infrastructure\obj\Release\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Infrastructure\obj\Release\net8.0\Infrastructure.dll
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Infrastructure\obj\Release\net8.0\refint\Infrastructure.dll
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Infrastructure\obj\Release\net8.0\Infrastructure.pdb
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Infrastructure\obj\Release\net8.0\Infrastructure.genruntimeconfig.cache
+D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Infrastructure\obj\Release\net8.0\ref\Infrastructure.dll
