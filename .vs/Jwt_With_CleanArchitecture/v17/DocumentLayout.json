@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\wordsenseintern\\medicalcrm_sirqasim\\crmportal\\infrastructure\\services\\typeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\typeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\wordsenseintern\\medicalcrm_sirqasim\\crmportal\\infrastructure\\services\\typevalueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\typevalueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|d:\\wordsenseintern\\medicalcrm_sirqasim\\crmportal\\application\\dtms\\typevalue\\gettypevaluedtm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|solutionrelative:application\\dtms\\typevalue\\gettypevaluedtm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\wordsenseintern\\medicalcrm_sirqasim\\crmportal\\infrastructure\\services\\typeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\typeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\wordsenseintern\\medicalcrm_sirqasim\\crmportal\\infrastructure\\migrations\\20240722091101_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20240722091101_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\wordsenseintern\\medicalcrm_sirqasim\\crmportal\\infrastructure\\migrations\\20240722101154_createtbls_type_typevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20240722101154_createtbls_type_typevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\wordsenseintern\\medicalcrm_sirqasim\\crmportal\\infrastructure\\migrations\\20240722091101_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20240722091101_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\wordsenseintern\\medicalcrm_sirqasim\\crmportal\\jwt_with_cleanarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\wordsenseintern\\medicalcrm_sirqasim\\crmportal\\infrastructure\\context\\database_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -85,10 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7500E882-6549-421A-9F65-85478F745639}|Common\\Common.csproj|d:\\wordsenseintern\\medicalcrm_sirqasim\\crmportal\\common\\constants\\responses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7500E882-6549-421A-9F65-85478F745639}|Common\\Common.csproj|solutionrelative:common\\constants\\responses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\wordsenseintern\\medicalcrm_sirqasim\\crmportal\\jwt_with_cleanarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,50 +94,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TypeValueService.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Infrastructure\\Services\\TypeValueService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\TypeValueService.cs",
-              "ToolTip": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Infrastructure\\Services\\TypeValueService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\TypeValueService.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAIwCoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:32:40.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GetTypeValueDTM.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Application\\DTMs\\TypeValue\\GetTypeValueDTM.cs",
-              "RelativeDocumentMoniker": "Application\\DTMs\\TypeValue\\GetTypeValueDTM.cs",
-              "ToolTip": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Application\\DTMs\\TypeValue\\GetTypeValueDTM.cs",
-              "RelativeToolTip": "Application\\DTMs\\TypeValue\\GetTypeValueDTM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T10:36:36.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TypeService.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Infrastructure\\Services\\TypeService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\TypeService.cs",
-              "ToolTip": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Infrastructure\\Services\\TypeService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\TypeService.cs",
-              "ViewState": "AQIAADkAAACAZmZmZmYWwBkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:32:21.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "20240722091101_init.cs",
               "DocumentMoniker": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Infrastructure\\Migrations\\20240722091101_init.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240722091101_init.cs",
@@ -149,8 +106,7 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240722091101_init.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:11:02.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T09:11:02.967Z"
             },
             {
               "$type": "Document",
@@ -162,8 +118,7 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240722101154_CreateTBLS_Type_Typevalue.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T10:11:54.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T10:11:54.814Z"
             },
             {
               "$type": "Document",
@@ -175,8 +130,44 @@
               "RelativeToolTip": "Infrastructure\\Context\\Database_context.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T08:20:10.242Z",
+              "WhenOpened": "2024-07-22T08:20:10.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Jwt_With_CleanArchitecture\\appsettings.json",
+              "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\appsettings.json",
+              "ToolTip": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Jwt_With_CleanArchitecture\\appsettings.json",
+              "RelativeToolTip": "Jwt_With_CleanArchitecture\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T08:19:40.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TypeValueService.cs",
+              "DocumentMoniker": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Infrastructure\\Services\\TypeValueService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\TypeValueService.cs",
+              "ToolTip": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Infrastructure\\Services\\TypeValueService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\TypeValueService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAxwHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:32:40.968Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TypeService.cs",
+              "DocumentMoniker": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Infrastructure\\Services\\TypeService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\TypeService.cs",
+              "ToolTip": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Infrastructure\\Services\\TypeService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\TypeService.cs",
+              "ViewState": "AQIAAFMAAACAmZmZmZkwwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:32:21.229Z"
             },
             {
               "$type": "Document",
@@ -188,8 +179,7 @@
               "RelativeToolTip": "Domain\\Models\\Entities\\TypeValue.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAA0wBQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:24:00.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T09:24:00.274Z"
             },
             {
               "$type": "Document",
@@ -201,8 +191,7 @@
               "RelativeToolTip": "Jwt_With_CleanArchitecture\\Controllers\\TypeValueController.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAiwCUAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T11:05:20.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T11:05:20.265Z"
             },
             {
               "$type": "Document",
@@ -214,8 +203,7 @@
               "RelativeToolTip": "Application\\Interfaces\\ITypeValue.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:33:18.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T09:33:18.961Z"
             },
             {
               "$type": "Document",
@@ -227,8 +215,7 @@
               "RelativeToolTip": "Domain\\Models\\Entities\\Types.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:25:22.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T09:25:22.556Z"
             },
             {
               "$type": "Document",
@@ -240,8 +227,7 @@
               "RelativeToolTip": "Jwt_With_CleanArchitecture\\InjectServices\\CustomServices.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T08:27:56.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T08:27:56.157Z"
             },
             {
               "$type": "Document",
@@ -253,8 +239,7 @@
               "RelativeToolTip": "Jwt_With_CleanArchitecture\\Controllers\\TypeController.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAmwEIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T10:00:32.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T10:00:32.457Z"
             },
             {
               "$type": "Document",
@@ -266,8 +251,7 @@
               "RelativeToolTip": "Domain\\Models\\BaseEntitiyModels\\BasicEntity.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAUwA0AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:20:27.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T09:20:27.044Z"
             },
             {
               "$type": "Document",
@@ -279,8 +263,7 @@
               "RelativeToolTip": "Application\\DTMs\\TypeValue\\TypeValueDTM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:30:50.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T09:30:50.53Z"
             },
             {
               "$type": "Document",
@@ -292,8 +275,7 @@
               "RelativeToolTip": "Application\\Interfaces\\IType.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:33:01.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T09:33:01.938Z"
             },
             {
               "$type": "Document",
@@ -305,8 +287,7 @@
               "RelativeToolTip": "Application\\DTMs\\Types\\TypeDTM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:29:32.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T09:29:32.826Z"
             },
             {
               "$type": "Document",
@@ -318,8 +299,7 @@
               "RelativeToolTip": "Jwt_With_CleanArchitecture\\Program.cs",
               "ViewState": "AQIAACkAAAAAMzMzMzMjwD4AAACuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:09:27.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T09:09:27.671Z"
             },
             {
               "$type": "Document",
@@ -331,8 +311,7 @@
               "RelativeToolTip": "Common\\CommonMethods\\CommonOpertions.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAA2wDIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T08:29:15.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T08:29:15.683Z"
             },
             {
               "$type": "Document",
@@ -369,18 +348,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T08:28:59.591Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Jwt_With_CleanArchitecture\\appsettings.json",
-              "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\appsettings.json",
-              "ToolTip": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Jwt_With_CleanArchitecture\\appsettings.json",
-              "RelativeToolTip": "Jwt_With_CleanArchitecture\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAABSwBEAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-22T08:19:40.989Z"
             }
           ]
         }

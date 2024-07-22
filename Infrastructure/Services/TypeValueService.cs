@@ -91,22 +91,46 @@ namespace Infrastructure.Services
 
         public async Task<ResponseVm> GetTypeValuebyId(int id)
         {
+
             ResponseVm response = ResponseVm.GetResponseVmInstance;
-            var TypeValueObj = await _context.TypeValue.FindAsync(id);
-            if (TypeValueObj == null)
+            var parameters = new DynamicParameters();
+            parameters.Add("@Id", id);
+            var typevalue = await CommonOpertions.ExecuteStoredProceduresList("stpGetTypeValueById", parameters, CommonOpertions.GetConnectionString());
+            var TypeValueData = typevalue.ToList();
+            if (TypeValueData.Count == 0)
             {
                 response.ResponseCode = Responses.NotFoundCode;
-                response.ResponseMessage = "NOT founded type";
+                response.ResponseMessage = "typevalue not found";
                 response.ResponseData = null;
             }
-        
             else
             {
                 response.ResponseCode = Responses.SuccessCode;
-                response.ResponseMessage = "Successfully founded type";
-                response.ResponseData = TypeValueObj;
+                response.ResponseMessage = "typevalue found";
+                response.ResponseData = TypeValueData;
             }
             return response;
+
+
+
+
+            /* ResponseVm response = ResponseVm.GetResponseVmInstance;
+             var TypeValueObj = await _context.TypeValue.FindAsync(id);
+             if (TypeValueObj == null)
+             {
+                 response.ResponseCode = Responses.NotFoundCode;
+                 response.ResponseMessage = "NOT founded type";
+                 response.ResponseData = null;
+             }
+
+             else
+             {
+                 response.ResponseCode = Responses.SuccessCode;
+                 response.ResponseMessage = "Successfully founded type";
+                 response.ResponseData = TypeValueObj;
+             }
+             return response;
+            */
         }
 
 
