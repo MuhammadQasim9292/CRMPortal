@@ -4,8 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using Domain.Models.Entities;
-
 namespace Infrastructure.Context
 {
     public  class Database_context:DbContext
@@ -15,8 +13,6 @@ namespace Infrastructure.Context
             
         }
 
-      public  DbSet<User> Users { get; set; }
-        public DbSet<Book> Books { get; set; }
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

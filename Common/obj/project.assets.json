@@ -1852,11 +1852,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Common\\Common.csproj",
+      "projectUniqueName": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Common\\Common.csproj",
+      "projectPath": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Common\\obj\\",
+      "outputPath": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

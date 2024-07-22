@@ -60,7 +60,7 @@ builder.Services.AddControllers();
 //{
 //    options.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.Preserve;
 //});
-builder.Services.AddDbContext<Infrastructure.Context.Database_context>(optionsAction => optionsAction.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddDbContext<Infrastructure.Context.Database_context>(optionsAction => optionsAction.UseSqlServer(builder.Configuration.GetConnectionString("ConnectionString")));
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddCustomServices();

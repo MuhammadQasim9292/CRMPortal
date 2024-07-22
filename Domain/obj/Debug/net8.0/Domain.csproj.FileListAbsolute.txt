@@ -37,3 +37,16 @@ D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Domain\bin\Debug\n
 D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Domain\bin\Debug\net8.0\Domain.dll
 D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Domain\bin\Debug\net8.0\Domain.pdb
 D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\WordSenseIntern\MedicalCRM_SirQasim\CRMPortal\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\WordSenseIntern\MedicalCRM_SirQasim\CRMPortal\Domain\bin\Debug\net8.0\Domain.dll
+D:\WordSenseIntern\MedicalCRM_SirQasim\CRMPortal\Domain\bin\Debug\net8.0\Domain.pdb
+D:\WordSenseIntern\MedicalCRM_SirQasim\CRMPortal\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\WordSenseIntern\MedicalCRM_SirQasim\CRMPortal\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\WordSenseIntern\MedicalCRM_SirQasim\CRMPortal\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\WordSenseIntern\MedicalCRM_SirQasim\CRMPortal\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\WordSenseIntern\MedicalCRM_SirQasim\CRMPortal\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\WordSenseIntern\MedicalCRM_SirQasim\CRMPortal\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\WordSenseIntern\MedicalCRM_SirQasim\CRMPortal\Domain\obj\Debug\net8.0\Domain.dll
+D:\WordSenseIntern\MedicalCRM_SirQasim\CRMPortal\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\WordSenseIntern\MedicalCRM_SirQasim\CRMPortal\Domain\obj\Debug\net8.0\Domain.pdb
+D:\WordSenseIntern\MedicalCRM_SirQasim\CRMPortal\Domain\obj\Debug\net8.0\ref\Domain.dll

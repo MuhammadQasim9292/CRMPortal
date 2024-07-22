@@ -4912,11 +4912,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
+      "projectUniqueName": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
       "projectName": "Jwt_With_CleanArchitecture",
-      "projectPath": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
+      "projectPath": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Jwt_With_CleanArchitecture\\obj\\",
+      "outputPath": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Jwt_With_CleanArchitecture\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4934,17 +4934,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Application\\Application.csproj": {
-              "projectPath": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Application\\Application.csproj"
+            "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Application\\Application.csproj": {
+              "projectPath": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Application\\Application.csproj"
             },
-            "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Common\\Common.csproj": {
-              "projectPath": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Common\\Common.csproj"
+            "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Common\\Common.csproj": {
+              "projectPath": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Common\\Common.csproj"
             },
-            "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Domain\\Domain.csproj"
+            "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Domain\\Domain.csproj"
             },
-            "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Infrastructure\\Infrastructure.csproj"
+            "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
