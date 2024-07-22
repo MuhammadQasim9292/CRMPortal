@@ -14,7 +14,6 @@ namespace Jwt_With_CleanArchitecture.Controllers
         private readonly IType _typeService;
         public TypeController(IType typeService)
         {
-
             _typeService = typeService;
         }
         [HttpGet]

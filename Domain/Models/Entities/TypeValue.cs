@@ -14,8 +14,9 @@ namespace Domain.Models.Entities
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
-        [ForeignKey("TypeValue")]
+       [ForeignKey("Types")]
         public int TypeId { get; set; }
+        public virtual Types Type { get; set; }
         [Required]
         [Column(TypeName = "nvarchar(100)")]
         public string Value { get; set; }

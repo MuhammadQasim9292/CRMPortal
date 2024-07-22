@@ -31,16 +31,28 @@ namespace Infrastructure.Services
         {
         ResponseVm response = ResponseVm.GetResponseVmInstance;
             var IsTypeExist = _context.Types.FirstOrDefault(x => x.Name == type.Type_Name);
-            var AddedType = new Types
+          
+            if (IsTypeExist == null)
             {
-                Name = type.Type_Name,
-            };
-
+                var AddedType = new Types
+                {
+                    Name = type.Type_Name,
+                };
                 _context.Types.Add(AddedType);
                 await _context.SaveChangesAsync();
                 response.ResponseCode = Responses.SuccessCode;
                 response.ResponseMessage = "Type Added Successfully";
                 response.ResponseData = AddedType;
+            }
+            else
+            {
+                response.ResponseCode = Responses.BadRequestCode;
+                response.ResponseMessage = "Type Already Exist";
+                response.ResponseData = null;
+
+            }
+
+           
             return response;
         }
 
@@ -72,7 +84,7 @@ namespace Infrastructure.Services
             {
                 var types = await connection.QueryAsync<dynamic>(query);
                 var allTypes = types.ToList();
-                if (allTypes == null)
+                if (allTypes == null) 
                 {
                     response.ResponseCode = Responses.NotFoundCode;
                     response.ResponseMessage = "NOT founded type";
@@ -116,7 +128,7 @@ namespace Infrastructure.Services
             {
 
                 IsExist.Name = type.Type_Name;
-        
+                IsExist.UpdatedDate=DateTime.Now;   
                 await _context.SaveChangesAsync();
                 response.ResponseCode = Responses.SuccessCode;
                 response.ResponseMessage = " Updated Successfully";
