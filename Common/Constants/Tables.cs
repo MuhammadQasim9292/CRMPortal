@@ -9,6 +9,8 @@ namespace Common.Constants
     public class Tables
 
     {
+        public const string Types_table = "Types";
+        public const string TypeValue_Table = "TypeValue";
 
     }
 }

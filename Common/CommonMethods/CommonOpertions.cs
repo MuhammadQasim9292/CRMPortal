@@ -68,7 +68,7 @@ namespace Common.CommonMethods
             IConfigurationRoot configuration = new ConfigurationBuilder()
       .SetBasePath(Directory.GetCurrentDirectory())
       .AddJsonFile("appsettings.json").Build();
-  return configuration.GetConnectionString("DefaultConnection");
+  return configuration.GetConnectionString("ConnectionString");
         }
 
 

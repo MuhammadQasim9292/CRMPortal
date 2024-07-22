@@ -2,6 +2,7 @@
 using Application;
 using Application.Interfaces;
 using Infrastructure;
+using Infrastructure.Services;
 
 
 
@@ -11,8 +12,7 @@ namespace Jwt_With_CleanArchitecture.InjectServices
     {
         public static void AddCustomServices(this IServiceCollection services)
         {
-           
-          
+            services.AddScoped<IType, TypeService>();
         }
     }
 }
