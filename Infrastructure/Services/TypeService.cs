@@ -36,24 +36,11 @@ namespace Infrastructure.Services
                 Name = type.Type_Name,
             };
 
-            if (IsTypeExist == null)
-            {
-
                 _context.Types.Add(AddedType);
                 await _context.SaveChangesAsync();
                 response.ResponseCode = Responses.SuccessCode;
                 response.ResponseMessage = "Type Added Successfully";
                 response.ResponseData = AddedType;
-
-
-            }
-            else
-            {
-                response.ResponseCode = Responses.BadRequestCode;
-                response.ResponseMessage = "Type Already Exist";
-                response.ResponseData = null;
-
-            }
             return response;
         }
 

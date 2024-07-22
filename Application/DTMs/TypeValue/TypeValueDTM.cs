@@ -11,4 +11,10 @@ namespace Application.DTMs.TypeValue
       int Type_Id,
       string Type_Value
       );
+    public record TypeValueUpdateDTM
+  (
+        int TypeValue_Id,
+      int Type_Id,
+      string Type_Value
+      );
 }
