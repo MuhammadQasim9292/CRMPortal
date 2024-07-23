@@ -37,3 +37,16 @@ D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Domain\bin\Debug\n
 D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Domain\bin\Debug\net8.0\Domain.dll
 D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Domain\bin\Debug\net8.0\Domain.pdb
 D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\internship\vs\CRMPortal\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\internship\vs\CRMPortal\Domain\bin\Debug\net8.0\Domain.dll
+D:\internship\vs\CRMPortal\Domain\bin\Debug\net8.0\Domain.pdb
+D:\internship\vs\CRMPortal\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\internship\vs\CRMPortal\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\internship\vs\CRMPortal\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\internship\vs\CRMPortal\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\internship\vs\CRMPortal\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\internship\vs\CRMPortal\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\internship\vs\CRMPortal\Domain\obj\Debug\net8.0\Domain.dll
+D:\internship\vs\CRMPortal\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\internship\vs\CRMPortal\Domain\obj\Debug\net8.0\Domain.pdb
+D:\internship\vs\CRMPortal\Domain\obj\Debug\net8.0\ref\Domain.dll

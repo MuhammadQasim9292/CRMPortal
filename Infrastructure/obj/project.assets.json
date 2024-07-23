@@ -4466,19 +4466,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+    "C:\\Users\\abc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "D:\\internship\\vs\\CRMPortal\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Infrastructure\\Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Infrastructure\\obj\\",
+      "projectPath": "D:\\internship\\vs\\CRMPortal\\Infrastructure\\Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\abc\\.nuget\\packages\\",
+      "outputPath": "D:\\internship\\vs\\CRMPortal\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\abc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4493,14 +4493,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Application\\Application.csproj": {
-              "projectPath": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Application\\Application.csproj"
+            "D:\\internship\\vs\\CRMPortal\\Application\\Application.csproj": {
+              "projectPath": "D:\\internship\\vs\\CRMPortal\\Application\\Application.csproj"
             },
-            "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Common\\Common.csproj": {
-              "projectPath": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Common\\Common.csproj"
+            "D:\\internship\\vs\\CRMPortal\\Common\\Common.csproj": {
+              "projectPath": "D:\\internship\\vs\\CRMPortal\\Common\\Common.csproj"
             },
-            "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Domain\\Domain.csproj"
+            "D:\\internship\\vs\\CRMPortal\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\internship\\vs\\CRMPortal\\Domain\\Domain.csproj"
             }
           }
         }

@@ -4907,19 +4907,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+    "C:\\Users\\abc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
+      "projectUniqueName": "D:\\internship\\vs\\CRMPortal\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
       "projectName": "Jwt_With_CleanArchitecture",
-      "projectPath": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Jwt_With_CleanArchitecture\\obj\\",
+      "projectPath": "D:\\internship\\vs\\CRMPortal\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
+      "packagesPath": "C:\\Users\\abc\\.nuget\\packages\\",
+      "outputPath": "D:\\internship\\vs\\CRMPortal\\Jwt_With_CleanArchitecture\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\abc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4934,17 +4934,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Application\\Application.csproj": {
-              "projectPath": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Application\\Application.csproj"
+            "D:\\internship\\vs\\CRMPortal\\Application\\Application.csproj": {
+              "projectPath": "D:\\internship\\vs\\CRMPortal\\Application\\Application.csproj"
             },
-            "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Common\\Common.csproj": {
-              "projectPath": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Common\\Common.csproj"
+            "D:\\internship\\vs\\CRMPortal\\Common\\Common.csproj": {
+              "projectPath": "D:\\internship\\vs\\CRMPortal\\Common\\Common.csproj"
             },
-            "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Domain\\Domain.csproj"
+            "D:\\internship\\vs\\CRMPortal\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\internship\\vs\\CRMPortal\\Domain\\Domain.csproj"
             },
-            "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Infrastructure\\Infrastructure.csproj"
+            "D:\\internship\\vs\\CRMPortal\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\internship\\vs\\CRMPortal\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
