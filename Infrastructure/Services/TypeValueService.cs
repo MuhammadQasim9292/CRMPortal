@@ -30,21 +30,28 @@ namespace Infrastructure.Services
             ResponseVm response = ResponseVm.GetResponseVmInstance;
             var IsTypeValueExist = _context.TypeValue.FirstOrDefault(x => x.Value == TypeValue.Type_Value);
             var IsTypeExists = _context.Types.FirstOrDefault(x => x.Id == TypeValue.Type_Id);
-            if ((IsTypeValueExist == null) && (IsTypeExists!=null))
-            {
-                var AddedType = new TypeValue
-                {
-                    TypeId = TypeValue.Type_Id,
-                    Value = TypeValue.Type_Value
-                };
 
+            var AddedType = new TypeValue
+            {
+                TypeId = TypeValue.Type_Id,
+                Value = TypeValue.Type_Value,
+                //Type = IsTypeExists
+            };
+            if (IsTypeExists == null)
+             {
+                response.ResponseCode = Responses.NotFoundCode;
+                response.ResponseMessage = "TypeValue Not found";
+                response.ResponseData = null;
+            }
+           else if (IsTypeValueExist == null)  
+            {
                 _context.TypeValue.Add(AddedType);
                 await _context.SaveChangesAsync();
                 response.ResponseCode = Responses.SuccessCode;
                 response.ResponseMessage = "TypeValue Added Successfully";
                 response.ResponseData = AddedType;
             }
-            else {
+            else if(IsTypeValueExist != null){
                 response.ResponseCode = Responses.BadRequestCode;
                 response.ResponseMessage = "TypeValue Already Exist";
                 response.ResponseData = null;
@@ -77,7 +84,7 @@ namespace Infrastructure.Services
         public async Task<ResponseVm> GetAllTypeValue()
         {
             ResponseVm response = ResponseVm.GetResponseVmInstance;
-            string query = "SELECT t.TypeId,t.Value,(select Name as 'TypeName' from Types  where Id=t.TypeId) from TypeValue t";
+            string query = "SELECT t.TypeId,t.Value,(select Name from Types where Id=t.TypeId) as 'TypeName' from TypeValue t";
             using (var connection = new SqlConnection(CommonOpertions.GetConnectionString()))
             {
                 var types = await connection.QueryAsync<dynamic>(query);
@@ -128,8 +135,13 @@ namespace Infrastructure.Services
             ResponseVm response = ResponseVm.GetResponseVmInstance;
             var IsExist = _context.TypeValue.FirstOrDefault(x => x.Id ==id);
             var IsTypeExists = _context.Types.FirstOrDefault(x => x.Id == TypeValue.Type_Id);
-
-            if ((IsExist != null)  && (IsTypeExists != null))
+            if (IsTypeExists == null)
+            {
+                response.ResponseCode = Responses.NotFoundCode;
+                response.ResponseMessage = "NOT founded type";
+                response.ResponseData = null;
+            }
+            else if (IsExist != null)
             {
 
                 IsExist.TypeId = TypeValue.Type_Id;
@@ -140,7 +152,7 @@ namespace Infrastructure.Services
                 response.ResponseMessage = " Updated Successfully";
                 response.ResponseData = TypeValue;
             }
-            else
+            else if (IsExist == null)
             {
                 response.ResponseCode = Responses.NotFoundCode;
                 response.ResponseMessage = "Type not found";
