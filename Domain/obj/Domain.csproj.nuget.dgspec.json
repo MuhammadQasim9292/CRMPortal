@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Domain\\Domain.csproj": {}
+    "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Domain\\Domain.csproj": {
+    "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Winnie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Winnie\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

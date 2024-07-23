@@ -4907,19 +4907,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+    "C:\\Users\\Winnie\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
+      "projectUniqueName": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
       "projectName": "Jwt_With_CleanArchitecture",
-      "projectPath": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Jwt_With_CleanArchitecture\\obj\\",
+      "projectPath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
+      "packagesPath": "C:\\Users\\Winnie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Jwt_With_CleanArchitecture\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Winnie\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4934,17 +4934,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Application\\Application.csproj": {
-              "projectPath": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Application\\Application.csproj"
+            "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Application\\Application.csproj"
             },
-            "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Common\\Common.csproj": {
-              "projectPath": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Common\\Common.csproj"
+            "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Common\\Common.csproj": {
+              "projectPath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Common\\Common.csproj"
             },
-            "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Domain\\Domain.csproj"
+            "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Domain\\Domain.csproj"
             },
-            "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\WordSenseIntern\\Book_Project_JWTIMplementation\\bookproject\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
