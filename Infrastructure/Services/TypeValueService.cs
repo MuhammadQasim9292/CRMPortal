@@ -65,6 +65,7 @@ namespace Infrastructure.Services
         {
             ResponseVm response = ResponseVm.GetResponseVmInstance;
             string tablename = Tables.TypeValue_Table;
+            var IsExist = _context.TypeValue.FirstOrDefault(x => x.Id ==id);
             var isDeleted = await CommonOpertions.SoftDelete(CommonOpertions.GetConnectionString(), tablename, id);
             if (isDeleted == false)
             {

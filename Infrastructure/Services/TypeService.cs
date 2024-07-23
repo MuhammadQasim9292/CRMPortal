@@ -59,19 +59,49 @@ namespace Infrastructure.Services
         public async Task<ResponseVm> DeleteType(int id)
         {
             ResponseVm response = ResponseVm.GetResponseVmInstance;
-            string tablename = Tables.Types_table;
-            var isDeleted = await CommonOpertions.SoftDelete(CommonOpertions.GetConnectionString(), tablename, id);
-            if (isDeleted == false)
+            var IsExistType = _context.Types.FirstOrDefault(x => x.Id == id);
+            var IsExistTypeValue = _context.TypeValue.FirstOrDefault(x => x.TypeId == id);
+            
+            if (IsExistType != null)
             {
-                response.ResponseCode = Responses.BadRequestCode;
-                response.ResponseMessage = "Unable to delete type";
+                if (IsExistTypeValue != null)
+                {
+                    var isDeletedTypevalue = await CommonOpertions.SoftDelete(CommonOpertions.GetConnectionString(), Tables.TypeValue_Table, id);
+                   
+                }
+                var isDeletedType = await CommonOpertions.SoftDelete(CommonOpertions.GetConnectionString(), Tables.Types_table, id);
 
-            }
-            else
-            {
-                response.ResponseCode = Responses.SuccessCode;
-                response.ResponseMessage = "Successfully deleted type";
-                response.ResponseData = isDeleted;
+                if (isDeletedType == false)
+                {
+                    response.ResponseCode = Responses.BadRequestCode;
+                    response.ResponseMessage = "Unable to delete typeValue";
+
+                }
+                else
+                {
+                    response.ResponseCode = Responses.SuccessCode;
+                    response.ResponseMessage = "Successfully deleted typeValue";
+                    response.ResponseData = isDeletedType;
+                }
+                /* ResponseVm response = ResponseVm.GetResponseVmInstance;
+                 string tablename = Tables.Types_table;
+
+                 var isDeleted = await CommonOpertions.SoftDelete(CommonOpertions.GetConnectionString(), tablename, id);
+                 if (isDeleted == false)
+                 {
+                     response.ResponseCode = Responses.BadRequestCode;
+                     response.ResponseMessage = "Unable to delete type";
+
+                 }
+                 else
+                 {
+                     response.ResponseCode = Responses.SuccessCode;
+                     response.ResponseMessage = "Successfully deleted type";
+                     response.ResponseData = isDeleted;
+                 }
+                
+                */
+                
             }
             return response;
         }
