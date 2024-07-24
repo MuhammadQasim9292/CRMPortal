@@ -112,7 +112,7 @@ namespace Infrastructure.Services
         public async Task<ResponseVm> GetAllType()
         {
             ResponseVm response = ResponseVm.GetResponseVmInstance;
-            string query = "SELECT t.Name  FROM Types t ";
+            string query = "SELECT t.Name  FROM TypeNew t ";
             using (var connection = new SqlConnection(CommonOpertions.GetConnectionString()))
             {
                 var types = await connection.QueryAsync<dynamic>(query);

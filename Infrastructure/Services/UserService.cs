@@ -37,29 +37,33 @@ namespace Infrastructure.Services
 
         public async  Task<ResponseVm> DeleteUser(long id)
         { 
-               ResponseVm response = ResponseVm.GetResponseVmInstance;
-         
-                var Employee = await _context.Users.FindAsync(id);
-                if (Employee != null)
+            ResponseVm response = ResponseVm.GetResponseVmInstance;
+            string tablename = Tables.User_Table;
+            var IsExist = _context.Users.FirstOrDefault(x => x.Id == id);
+            if (IsExist.IsDeleted == false)
+            {
+                var isDeleted = await CommonOpertions.SoftDelete(CommonOpertions.GetConnectionString(), tablename, id);
+                if (isDeleted == false)
                 {
-                    _context.Users.Remove(Employee);
-                    await _context.SaveChangesAsync();
-                    response.ResponseCode = Responses.SuccessCode;
-                    response.ResponseMessage = "User deleted successfully";
-                    response.ResponseData = Employee;
-                    return response;
-
+                    response.ResponseCode = Responses.BadRequestCode;
+                    response.ResponseMessage = "Unable to delete user";
 
                 }
                 else
                 {
-                    response.ResponseCode =Responses.SuccessCode;
-                    response.ResponseMessage = "User deleted successfully";
-                    response.ResponseData = Employee;
-                    return response;
-
+                    response.ResponseCode = Responses.SuccessCode;
+                    response.ResponseMessage = "Successfully deleted user";
+                    response.ResponseData = isDeleted;
                 }
             }
+            else
+            {
+                response.ResponseCode = Responses.SuccessCode;
+                response.ResponseMessage = "User Already Deleted";
+                response.ResponseData = IsExist;
+            }
+            return response;
+        }
      
 
         public async  Task<ResponseVm> GetAllUsers()

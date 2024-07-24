@@ -24,7 +24,7 @@ namespace Domain.Models.Entities
         public string Password { get; set; }
         [Required]
         [Column(TypeName = "nvarchar(100)")]
-        public string Role { get; set; }
+        public string Role { get; set; } = "ApplicationUser";
 
         // Navigation property to represent the one-to-many relationship with Order
     }

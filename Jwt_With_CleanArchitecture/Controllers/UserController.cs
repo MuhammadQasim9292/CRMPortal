@@ -64,6 +64,7 @@ namespace Jwt_With_CleanArchitecture.Controllers
             await _userservice.RegisterUser(user);
             return Ok("User registered successfully");
         }
+        [HttpDelete("DeleteUser/{id}")]
         public async Task<ActionResult> DeleteUser(long id)
         {
             if (!ModelState.IsValid)

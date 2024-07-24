@@ -1,12 +1,10 @@
 
 using Jwt_With_CleanArchitecture.InjectServices;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
-
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.Text;
-using System.Text.Json.Serialization;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -63,9 +61,9 @@ builder.Services.AddControllers();
 builder.Services.AddDbContext<Infrastructure.Context.Database_context>(optionsAction => optionsAction.UseSqlServer(builder.Configuration.GetConnectionString("ConnectionString")));
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddCustomServices();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddCustomServices();
 
 var app = builder.Build();
 if (app.Environment.IsDevelopment())
