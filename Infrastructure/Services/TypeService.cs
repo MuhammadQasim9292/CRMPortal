@@ -30,7 +30,7 @@ namespace Infrastructure.Services
         public async Task<ResponseVm> AddType(TypeDTM type)
         {
         ResponseVm response = ResponseVm.GetResponseVmInstance;
-            var IsTypeExist = _context.Types.FirstOrDefault(x => x.Name == type.Type_Name);
+            var IsTypeExist = _context.TypeNew.FirstOrDefault(x => x.Name == type.Type_Name);
           
             if (IsTypeExist == null)
             {
@@ -38,7 +38,7 @@ namespace Infrastructure.Services
                 {
                     Name = type.Type_Name,
                 };
-                _context.Types.Add(AddedType);
+                _context.TypeNew.Add(AddedType);
                 await _context.SaveChangesAsync();
                 response.ResponseCode = Responses.SuccessCode;
                 response.ResponseMessage = "Type Added Successfully";
@@ -56,18 +56,18 @@ namespace Infrastructure.Services
             return response;
         }
 
-        public async Task<ResponseVm> DeleteType(int id)
+        public async Task<ResponseVm> DeleteType(long id)
         {
             ResponseVm response = ResponseVm.GetResponseVmInstance;
-            var IsExistType = _context.Types.FirstOrDefault(x => x.Id == id);
-            var IsExistTypeValue = _context.TypeValue.FirstOrDefault(x => x.TypeId == id);
-            
+            var IsExistType = _context.TypeNew.FirstOrDefault(x => x.ID == id);
+            var IsExistTypeValue = _context.TypeValueNew.FirstOrDefault(x => x.TypeId == id);
+
             if (IsExistType != null)
             {
                 if (IsExistTypeValue != null)
                 {
                     var isDeletedTypevalue = await CommonOpertions.SoftDelete(CommonOpertions.GetConnectionString(), Tables.TypeValue_Table, id);
-                   
+
                 }
                 var isDeletedType = await CommonOpertions.SoftDelete(CommonOpertions.GetConnectionString(), Tables.Types_table, id);
 
@@ -82,30 +82,33 @@ namespace Infrastructure.Services
                     response.ResponseCode = Responses.SuccessCode;
                     response.ResponseMessage = "Successfully deleted typeValue";
                     response.ResponseData = isDeletedType;
+
+
+                    /*ResponseVm response = ResponseVm.GetResponseVmInstance;
+                    string tablename = Tables.Types_table;
+
+                    var isDeleted = await CommonOpertions.SoftDelete(CommonOpertions.GetConnectionString(), tablename, id);
+                    if (isDeleted == false)
+                    {
+                        response.ResponseCode = Responses.BadRequestCode;
+                        response.ResponseMessage = "Unable to delete type";
+
+                    }
+                    else
+                    {
+                        response.ResponseCode = Responses.SuccessCode;
+                        response.ResponseMessage = "Successfully deleted type";
+                        response.ResponseData = isDeleted;
+                    }
+
+                   */
+
+
                 }
-                /* ResponseVm response = ResponseVm.GetResponseVmInstance;
-                 string tablename = Tables.Types_table;
-
-                 var isDeleted = await CommonOpertions.SoftDelete(CommonOpertions.GetConnectionString(), tablename, id);
-                 if (isDeleted == false)
-                 {
-                     response.ResponseCode = Responses.BadRequestCode;
-                     response.ResponseMessage = "Unable to delete type";
-
-                 }
-                 else
-                 {
-                     response.ResponseCode = Responses.SuccessCode;
-                     response.ResponseMessage = "Successfully deleted type";
-                     response.ResponseData = isDeleted;
-                 }
-                
-                */
                 
             }
             return response;
         }
-
         public async Task<ResponseVm> GetAllType()
         {
             ResponseVm response = ResponseVm.GetResponseVmInstance;
@@ -130,10 +133,10 @@ namespace Infrastructure.Services
             }
         }
 
-        public async Task<ResponseVm> GetTypebyId(int id)
+        public async Task<ResponseVm> GetTypebyId(long id)
         {
             ResponseVm response = ResponseVm.GetResponseVmInstance;
-            var Type= await _context.Types.FindAsync(id);
+            var Type= await _context.TypeNew.FindAsync(id);
             if (Type == null)
             {
                 response.ResponseCode = Responses.NotFoundCode;
@@ -149,10 +152,10 @@ namespace Infrastructure.Services
             return response;
         }
 
-        public async Task<ResponseVm> UpdateType(int id, TypeDTM type)
+        public async Task<ResponseVm> UpdateType(long id, TypeDTM type)
         {
             ResponseVm response = ResponseVm.GetResponseVmInstance;
-            var IsExist = _context.Types.FirstOrDefault(x => x.Id == id);
+           var IsExist = _context.TypeNew.FirstOrDefault(x => x.ID == id);
    
             if (IsExist != null)
             {

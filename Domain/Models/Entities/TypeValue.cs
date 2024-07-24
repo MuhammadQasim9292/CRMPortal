@@ -9,17 +9,17 @@ using Domain.Models.BaseEntitiyModels;
 
 namespace Domain.Models.Entities
 {
-    public class TypeValue : BasicEntity
+    public class TypeValue:BasicEntity
     {
+
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int Id { get; set; }
-       [ForeignKey("Types")]
-        public int TypeId { get; set; }
+        public long ID { get; set; }
+        [ForeignKey("TypeNew")]
+        public long TypeId { get; set; }
         public virtual Types Type { get; set; }
         [Required]
         [Column(TypeName = "nvarchar(100)")]
         public string Value { get; set; }
-
     }
 }

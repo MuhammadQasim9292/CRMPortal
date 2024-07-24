@@ -12,9 +12,9 @@ namespace Application.Interfaces
     public interface IType
     {
         Task<ResponseVm> GetAllType();
-        Task<ResponseVm> GetTypebyId(int id);
+        Task<ResponseVm> GetTypebyId(long id);
         Task<ResponseVm> AddType(TypeDTM type);
-        Task<ResponseVm> UpdateType(int id,TypeDTM type);
-        Task<ResponseVm> DeleteType(int id);
+        Task<ResponseVm> UpdateType(long id,TypeDTM type);
+        Task<ResponseVm> DeleteType(long id);
     }
 }

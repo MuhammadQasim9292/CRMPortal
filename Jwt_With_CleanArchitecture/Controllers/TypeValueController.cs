@@ -3,11 +3,12 @@ using Application.DTMs.TypeValue;
 using Application.Interfaces;
 using Common.Responses;
 using Domain.Models.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-
 namespace Jwt_With_CleanArchitecture.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class TypeValueController : ControllerBase
@@ -29,7 +30,7 @@ namespace Jwt_With_CleanArchitecture.Controllers
             return Ok(books);
         }
         [HttpGet("GetValueById/{id}")]
-        public async Task<ActionResult<ResponseVm>> GetTypeValuebyId(int id)
+        public async Task<ActionResult<ResponseVm>> GetTypeValuebyId(long id)
         {
             if (!ModelState.IsValid)
                 return BadRequest();
@@ -49,7 +50,7 @@ namespace Jwt_With_CleanArchitecture.Controllers
             return Ok(response);
         }
         [HttpPost("UpdateType/{id}")]
-        public async Task<ActionResult<ResponseVm>> UpdateTypeValue (int id, [FromBody] TypeValueDTM type)
+        public async Task<ActionResult<ResponseVm>> UpdateTypeValue (long id, [FromBody] TypeValueDTM type)
         {
             if (!ModelState.IsValid)
                 return BadRequest();
@@ -58,7 +59,7 @@ namespace Jwt_With_CleanArchitecture.Controllers
             return Ok(response);
         }
         [HttpPost("DeleteType/{id}")]
-        public async Task<ActionResult<ResponseVm>> DeleteTypeValue(int id)
+        public async Task<ActionResult<ResponseVm>> DeleteTypeValue(long id)
         {
             if (!ModelState.IsValid)
                 return BadRequest();
@@ -66,8 +67,6 @@ namespace Jwt_With_CleanArchitecture.Controllers
             var response = await _typeService.DeleteTypeValue(id);
             return Ok(response);
         }
-
-
 
     }
 }

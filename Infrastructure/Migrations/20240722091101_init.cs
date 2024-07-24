@@ -12,8 +12,7 @@ namespace Infrastructure.Migrations
         {
 
         }
-
-        /// <inheritdoc />
+                /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
 

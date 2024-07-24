@@ -8,13 +8,13 @@ namespace Application.DTMs.TypeValue
 {
     public record TypeValueDTM
   (
-      int Type_Id,
+      long Type_Id,
       string Type_Value
       );
     public record TypeValueUpdateDTM
   (
-        int TypeValue_Id,
-      int Type_Id,
+        long TypeValue_Id,
+      long Type_Id,
       string Type_Value
       );
 }

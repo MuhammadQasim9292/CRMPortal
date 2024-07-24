@@ -10,10 +10,10 @@ using Domain.Models.BaseEntitiyModels;
 namespace Domain.Models.Entities
 {
     public class Types:BasicEntity
-    { 
+    {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int Id { get; set; }
+        public long ID { get; set; }
         [Required]
         [Column(TypeName = "nvarchar(100)")]
         public string Name { get; set; }

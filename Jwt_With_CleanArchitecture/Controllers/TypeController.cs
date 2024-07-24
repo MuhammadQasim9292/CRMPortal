@@ -1,11 +1,13 @@
 ﻿using Application.DTMs.Types;
 using Application.Interfaces;
 using Common.Responses;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Jwt_With_CleanArchitecture.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class TypeController : ControllerBase
@@ -26,7 +28,7 @@ namespace Jwt_With_CleanArchitecture.Controllers
             return Ok(books);
         }
         [HttpGet("GetValueById/{id}")]
-        public async Task<ActionResult<ResponseVm>> GetValuebyId(int id)
+        public async Task<ActionResult<ResponseVm>> GetValuebyId(long id)
         {
             if (!ModelState.IsValid)
                 return BadRequest();
@@ -46,7 +48,7 @@ namespace Jwt_With_CleanArchitecture.Controllers
             return Ok(response);
         }
         [HttpPost("UpdateType/{id}")]
-        public async Task<ActionResult<ResponseVm>> UpdateType(int id, [FromBody]TypeDTM type)
+        public async Task<ActionResult<ResponseVm>> UpdateType(long id, [FromBody]TypeDTM type)
         {
             if (!ModelState.IsValid)
                 return BadRequest();
@@ -55,7 +57,7 @@ namespace Jwt_With_CleanArchitecture.Controllers
             return Ok(response);
         }
         [HttpPost("DeleteType/{id}")]
-        public async Task<ActionResult<ResponseVm>> DeleteType(int id)
+        public async Task<ActionResult<ResponseVm>> DeleteType(long id)
         {
             if (!ModelState.IsValid)
                 return BadRequest();

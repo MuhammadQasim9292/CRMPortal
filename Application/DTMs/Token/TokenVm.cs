@@ -8,7 +8,7 @@ namespace Common.Token
 {
     public static class TokenVm
     {
-        public static int id { get; set; }
+        public static long id { get; set; }
         public static string email { get; set; }
         public static string token { get; set; }
     }

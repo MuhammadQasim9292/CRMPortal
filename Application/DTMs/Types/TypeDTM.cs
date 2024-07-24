@@ -8,7 +8,7 @@ namespace Application.DTMs.Types
 {
     public record TypeDTM
   (
-      string Type_Name
+      string Type_Name 
   
       );
 }

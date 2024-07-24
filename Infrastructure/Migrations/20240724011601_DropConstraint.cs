@@ -5,10 +5,22 @@
 namespace Infrastructure.Migrations
 {
     /// <inheritdoc />
-    public partial class ForeignKeyConstarint : Migration
+    public partial class DropConstraint : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
+        {
+            migrationBuilder.DropForeignKey(
+                name: "FK_TypeValue_Types_TypeId",
+                table: "TypeValue");
+
+            migrationBuilder.DropIndex(
+                name: "IX_TypeValue_TypeId",
+                table: "TypeValue");
+        }
+
+        /// <inheritdoc />
+        protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateIndex(
                 name: "IX_TypeValue_TypeId",
@@ -22,18 +34,6 @@ namespace Infrastructure.Migrations
                 principalTable: "Types",
                 principalColumn: "Id",
                 onDelete: ReferentialAction.Cascade);
-        }
-
-        /// <inheritdoc />
-        protected override void Down(MigrationBuilder migrationBuilder)
-        {
-            migrationBuilder.DropForeignKey(
-                name: "FK_TypeValue_Types_TypeId",
-                table: "TypeValue");
-
-            migrationBuilder.DropIndex(
-                name: "IX_TypeValue_TypeId",
-                table: "TypeValue");
         }
     }
 }

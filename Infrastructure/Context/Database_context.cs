@@ -14,13 +14,10 @@ namespace Infrastructure.Context
         {
             
         }
-        public DbSet<Types>Types{ get; set; }
-        public DbSet<TypeValue>TypeValue { get; set; }
-
-
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            modelBuilder.ApplyConfigurationsFromAssembly(typeof(Database_context).Assembly);
-        }
+ 
+        public DbSet<Domain.Models.Entities.Types> TypeNew { get; set; }
+        public DbSet<Domain.Models.Entities.TypeValue> TypeValueNew { get; set; }
+        public DbSet<User> Users { get; set; }
+      
     }
 }

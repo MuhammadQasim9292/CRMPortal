@@ -52,11 +52,11 @@ namespace Common.CommonMethods
             }
         }
        
-        public static async Task<bool> SoftDelete(string connectionString , string tableName , int id)
+        public static async Task<bool> SoftDelete(string connectionString , string tableName , long id)
         {
            using(IDbConnection db = new SqlConnection(connectionString) )
             {
-                string query = $"UPDATE {tableName} SET IsDeleted = 1 WHERE Id = @Id";
+                string query = $"UPDATE {tableName} SET IsDeleted = 1 WHERE Id in (@Id)";
                 var affectedrows = await db.ExecuteAsync(query,new {Id = id});
 
                return affectedrows > 0;
