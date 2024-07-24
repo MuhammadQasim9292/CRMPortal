@@ -12,6 +12,7 @@ namespace Common.Constants
         public const string Types_table = "Types";
         public const string User_Table = "Users";
         public const string TypeValue_Table = "TypeValue";
+        public const string Role_Table = "Role";
 
     }
 }

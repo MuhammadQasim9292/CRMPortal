@@ -14,10 +14,9 @@ namespace Infrastructure.Context
         {
             
         }
- 
-        public DbSet<Domain.Models.Entities.Types> TypeNew { get; set; }
-        public DbSet<Domain.Models.Entities.TypeValue> TypeValueNew { get; set; }
+        public DbSet<Types> TypeNew { get; set; }
+        public DbSet<TypeValue> TypeValueNew { get; set; }
         public DbSet<User> Users { get; set; }
-      
+        public DbSet<Role> Role { get; set; }
     }
 }
