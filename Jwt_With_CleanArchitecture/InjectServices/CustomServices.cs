@@ -8,7 +8,14 @@ namespace Jwt_With_CleanArchitecture.InjectServices
     {
         public static void AddCustomServices(this IServiceCollection services)
         {
+            // Register DepartmentService
             services.AddScoped<IDepartmentService, DepartmentService>();
+
+            // Register EmployeeService
+            //services.AddScoped<IEmployeeService, EmployeeService>();
+           // services.AddScoped<IEmployeeJobDescriptionService, EmployeeService>();
+            services.AddScoped<IEmployeeJobDescriptionService, EmployeeService> ();
+
         }
     }
 }

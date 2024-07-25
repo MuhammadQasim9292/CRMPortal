@@ -15,7 +15,7 @@ using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Configure services
+// Configure authentication
 builder.Services.AddAuthentication(options =>
 {
     options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
@@ -35,14 +35,28 @@ builder.Services.AddAuthentication(options =>
     };
 });
 
+// Add authorization services
 builder.Services.AddAuthorization();
 
-// Add services to the container.
+// Add services to the container
 builder.Services.AddControllers();
-builder.Services.AddDbContext<DepartmentContext>(options =>
+
+// Register DbContext
+builder.Services.AddDbContext<EmployeeContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
+// Register additional DbContext if needed
+// Example: builder.Services.AddDbContext<AnotherContext>(options =>
+//     options.UseSqlServer(builder.Configuration.GetConnectionString("AnotherConnection")));
+
+// Register services
+builder.Services.AddScoped<IEmployeeJobDescriptionService, EmployeeService>();
+builder.Services.AddScoped<IDepartmentService, DepartmentService>();
+
+// Register custom services
 builder.Services.AddCustomServices();
+//builder.Services.AddDistrictServices();
+//builder.Services.AddLeaveBalanceServices(); // Add this line to register your services
 
 // Configure Swagger
 builder.Services.AddEndpointsApiExplorer();
@@ -68,14 +82,14 @@ builder.Services.AddSwaggerGen(c =>
                     Id = "Bearer"
                 }
             },
-            new string[] {}
+            new string[] { }
         }
     });
 });
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// Configure the HTTP request pipeline
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -83,8 +97,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
-app.UseAuthentication();  // Ensure authentication middleware is used
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

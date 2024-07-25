@@ -1,9 +1,33 @@
-﻿namespace Common.Responses
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Common.Responses
 {
-    public class ResponseVm
+    public sealed class ResponseVm
     {
-        public bool Success { get; set; }
-        public string Message { get; set; }
-        public object Data { get; set; }
+        public int ResponseCode { get; set; }
+        public string ResponseMessage { get; set; } = "";
+        public dynamic ResponseData { get; set; }
+        public string ErrorMessages { get; set; } = "";
+
+
+        private static ResponseVm Instance = null;
+        private ResponseVm()
+        {
+        }
+        public static ResponseVm GetResponseVmInstance
+        {
+            get
+            {
+                if (Instance == null)
+                {
+                    Instance = new ResponseVm();
+                }
+                return Instance;
+            }
+        }
     }
 }

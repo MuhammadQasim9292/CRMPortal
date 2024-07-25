@@ -1,4 +1,5 @@
-﻿using Domain.Models.Entities;
+﻿
+using Domain.Models.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace Infrastructure.Context
@@ -11,5 +12,15 @@ namespace Infrastructure.Context
         }
 
         public DbSet<DepartmentEntity> Departments { get; set; }
+    }
+
+    public class EmployeeContext : DbContext
+    {
+        public EmployeeContext(DbContextOptions<EmployeeContext> options)
+            : base(options)
+        {
+        }
+
+        public DbSet<EmployeeJobDescription> EmployeeJobDescriptions { get; set; }
     }
 }
