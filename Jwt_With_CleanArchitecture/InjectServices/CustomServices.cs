@@ -16,6 +16,8 @@ namespace Jwt_With_CleanArchitecture.InjectServices
             services.AddScoped<ITypeValue, TypeValueService>();
             services.AddScoped<IUser,UserService>();
             services.AddScoped<IRole, RoleService>();
+            services.AddScoped<ISearch, SearchService>();
+
         }
     }
 }

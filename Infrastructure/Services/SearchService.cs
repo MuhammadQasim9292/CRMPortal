@@ -20,10 +20,9 @@ namespace Infrastructure.Services
             ResponseVm response = ResponseVm.GetResponseVmInstance;
             if (SearchText != null)
             {
-                
                 var parameters = new DynamicParameters();
-                parameters.Add("@Name",SearchText);
-                var name = await CommonOpertions.ExecuteStoredProceduresList("stpGetSearchValueById", parameters, CommonOpertions.GetConnectionString());
+                parameters.Add("@Name", SearchText);
+                var name = await CommonOpertions.ExecuteStoredProceduresList("StpGetSearchValue", parameters, CommonOpertions.GetConnectionString());
                 if (name != null) {
                     response.ResponseCode = Responses.SuccessCode;
                     response.ResponseData= name;    

@@ -8,8 +8,6 @@ namespace Application.DTMs.Search
 {
     public record SearchDTM
     (
-     long id,
-       string Name,
-        string CNIC
+       string Name
      );
 }
