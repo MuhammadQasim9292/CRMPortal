@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\internship\\vs\\CRMPortal\\Infrastructure\\Infrastructure.csproj": {}
+    "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\internship\\vs\\CRMPortal\\Application\\Application.csproj": {
+    "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\internship\\vs\\CRMPortal\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\internship\\vs\\CRMPortal\\Application\\Application.csproj",
+        "projectPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\abc\\.nuget\\packages\\",
-        "outputPath": "D:\\internship\\vs\\CRMPortal\\Application\\obj\\",
+        "outputPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,11 +29,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\internship\\vs\\CRMPortal\\Common\\Common.csproj": {
-                "projectPath": "D:\\internship\\vs\\CRMPortal\\Common\\Common.csproj"
+              "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Common\\Common.csproj": {
+                "projectPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Common\\Common.csproj"
               },
-              "D:\\internship\\vs\\CRMPortal\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\internship\\vs\\CRMPortal\\Domain\\Domain.csproj"
+              "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Domain\\Domain.csproj"
               }
             }
           }
@@ -60,6 +60,26 @@
             "Microsoft.AspNetCore.Mvc.Core": {
               "target": "Package",
               "version": "[2.2.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [
@@ -82,14 +102,14 @@
         }
       }
     },
-    "D:\\internship\\vs\\CRMPortal\\Common\\Common.csproj": {
+    "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\internship\\vs\\CRMPortal\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "D:\\internship\\vs\\CRMPortal\\Common\\Common.csproj",
+        "projectPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\abc\\.nuget\\packages\\",
-        "outputPath": "D:\\internship\\vs\\CRMPortal\\Common\\obj\\",
+        "outputPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -165,14 +185,14 @@
         }
       }
     },
-    "D:\\internship\\vs\\CRMPortal\\Domain\\Domain.csproj": {
+    "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\internship\\vs\\CRMPortal\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\internship\\vs\\CRMPortal\\Domain\\Domain.csproj",
+        "projectPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\abc\\.nuget\\packages\\",
-        "outputPath": "D:\\internship\\vs\\CRMPortal\\Domain\\obj\\",
+        "outputPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -232,14 +252,14 @@
         }
       }
     },
-    "D:\\internship\\vs\\CRMPortal\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\internship\\vs\\CRMPortal\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\internship\\vs\\CRMPortal\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\abc\\.nuget\\packages\\",
-        "outputPath": "D:\\internship\\vs\\CRMPortal\\Infrastructure\\obj\\",
+        "outputPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -257,14 +277,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\internship\\vs\\CRMPortal\\Application\\Application.csproj": {
-                "projectPath": "D:\\internship\\vs\\CRMPortal\\Application\\Application.csproj"
+              "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Application\\Application.csproj": {
+                "projectPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Application\\Application.csproj"
               },
-              "D:\\internship\\vs\\CRMPortal\\Common\\Common.csproj": {
-                "projectPath": "D:\\internship\\vs\\CRMPortal\\Common\\Common.csproj"
+              "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Common\\Common.csproj": {
+                "projectPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Common\\Common.csproj"
               },
-              "D:\\internship\\vs\\CRMPortal\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\internship\\vs\\CRMPortal\\Domain\\Domain.csproj"
+              "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Domain\\Domain.csproj"
               }
             }
           }
@@ -287,6 +307,10 @@
             "Dapper": {
               "target": "Package",
               "version": "[2.1.35, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.5.1, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",

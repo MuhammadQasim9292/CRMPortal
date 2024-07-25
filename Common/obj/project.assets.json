@@ -1852,11 +1852,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\internship\\vs\\CRMPortal\\Common\\Common.csproj",
+      "projectUniqueName": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "D:\\internship\\vs\\CRMPortal\\Common\\Common.csproj",
+      "projectPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\abc\\.nuget\\packages\\",
-      "outputPath": "D:\\internship\\vs\\CRMPortal\\Common\\obj\\",
+      "outputPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abc\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -89,9 +89,8 @@ namespace Common.CommonMethods
                 {
                     return Enumerable.Empty<dynamic>();
                 }
-
                 return results;
             }
-        }
+            }
     }
 }

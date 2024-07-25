@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\internship\\vs\\CRMPortal\\Domain\\Domain.csproj": {}
+    "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\internship\\vs\\CRMPortal\\Domain\\Domain.csproj": {
+    "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\internship\\vs\\CRMPortal\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\internship\\vs\\CRMPortal\\Domain\\Domain.csproj",
+        "projectPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\abc\\.nuget\\packages\\",
-        "outputPath": "D:\\internship\\vs\\CRMPortal\\Domain\\obj\\",
+        "outputPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abc\\AppData\\Roaming\\NuGet\\NuGet.Config",
