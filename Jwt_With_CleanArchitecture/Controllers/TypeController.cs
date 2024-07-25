@@ -14,6 +14,7 @@ namespace Jwt_With_CleanArchitecture.Controllers
     {
 
         private readonly IType _typeService;
+      // private readonly Igeneric<T> GenericService;
         public TypeController(IType typeService)
         {
             _typeService = typeService;

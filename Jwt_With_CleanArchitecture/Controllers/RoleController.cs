@@ -14,18 +14,23 @@ namespace Jwt_With_CleanArchitecture.Controllers
     [Route("api/[controller]")]
     [ApiController]
     public class RoleController : ControllerBase
+    //public class RoleController<T> : ControllerBase
     {
-        private readonly IRole _roleService;
+     private readonly IRole _roleService;
+        //private readonly IRole<T> _roleService;
+
         public RoleController(IRole roleService)
+              //public RoleController(IRole<T> roleService)
         {
+           // GenericService.z
             _roleService = roleService;
+           
         }
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Role>>> GetAllTypes()
         {
             if (!ModelState.IsValid)
                 return BadRequest();
-
             var books = await _roleService.GetAllRole();
             return Ok(books);
         }
@@ -34,7 +39,6 @@ namespace Jwt_With_CleanArchitecture.Controllers
         {
             if (!ModelState.IsValid)
                 return BadRequest();
-
 
             var Role = await _roleService.GetRolebyId(id);
             return Ok(Role);

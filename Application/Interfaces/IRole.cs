@@ -9,6 +9,7 @@ using Application.DTMs.role;
 namespace Application.Interfaces
 {
     public interface IRole
+          //public interface IRole<T>
     {
         Task<ResponseVm> GetAllRole();
         Task<ResponseVm> GetRolebyId(long id);

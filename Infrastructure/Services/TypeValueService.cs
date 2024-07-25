@@ -17,13 +17,14 @@ using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace Infrastructure.Services
 {
-    public class TypeValueService : ITypeValue
+    public class TypeValueService<T> : ITypeValue
     {
         private readonly Database_context _context;
+        private readonly Igeneric<T> GenericService;
+       
         public TypeValueService(Database_context db)
         {
-
-            _context = db;
+           _context = db;
         }
         public async Task<ResponseVm> AddTypeValue(TypeValueDTM TypeValue)
         {

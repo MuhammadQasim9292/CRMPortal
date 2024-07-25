@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Domain.Models.BaseEntitiyModels
 {
-    public class BasicEntity
+    public abstract class BasicEntity
     {
         public bool IsDeleted { get; set; } = false;
         public DateTime AddedDate { get; set; } = DateTime.Now;

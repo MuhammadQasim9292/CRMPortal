@@ -9,21 +9,26 @@ using Common.CommonMethods;
 using Common.Constants;
 using Common.Responses;
 using Dapper;
+using Domain.Models.BaseEntitiyModels;
 using Domain.Models.Entities;
 using Infrastructure.Context;
 using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 
+
 namespace Infrastructure.Services
 {
-    public class RoleService : IRole
+ //   public class RoleService<T> : IRole<T> where T:RoleService<T>
+      public class RoleService
     {
         private readonly Database_context _context;
-        public RoleService(Database_context db)
+        //private readonly Igeneric<T> GenericService;
+        private readonly GenericService generic;
+        public RoleService(Database_context db,GenericService generic)
         {
-
             _context = db;
-        }
+            this.generic = generic;
+        }       
         public async  Task<ResponseVm> AddRole(RoleDTM role)
         {
 
@@ -36,11 +41,15 @@ namespace Infrastructure.Services
                 {
                     Name = role.role_Name,
                 };
-                _context.Role.Add(AddedType);
-                await _context.SaveChangesAsync();
+              //  var addedEntity= GenericService.AddRole(AddedType);
+                // T newT2 = (T)(object)t
+                //(T)Convert.ChangeType(AddedType, typeof(T))
+                generic.AddRole(AddedType);
+                // _context.Role.Add(AddedType);
+                // await _context.SaveChangesAsync();
                 response.ResponseCode = Responses.SuccessCode;
                 response.ResponseMessage = "role Added Successfully";
-                response.ResponseData = AddedType;
+               // response.ResponseData = addedEntity;
             }
             else
             {
