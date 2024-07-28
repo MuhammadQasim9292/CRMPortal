@@ -3,51 +3,54 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Application.Interfaces;
 using Infrastructure.Context;
 using Microsoft.EntityFrameworkCore;
 
-namespace Infrastructure.Services
+namespace Infrastructure.Services.Repositories
 {
     public class GenericRepository<T> : IGenericRepository<T> where T : class
     {
-        private readonly Database_context _context;
-        private readonly DbSet<T> _dbSet;
+        protected readonly Database_context _context;
+
 
         public GenericRepository(Database_context context)
         {
             _context = context;
-            _dbSet = _context.Set<T>();
+
         }
 
         public async Task<IEnumerable<T>> GetAllAsync()
         {
-            return await _dbSet.ToListAsync();
+            return await _context.Set<T>().ToListAsync();
         }
 
-        public async Task<T> GetByIdAsync(int id)
+        public ValueTask<T> GetByIdAsync(int id)
         {
-            return await _dbSet.FindAsync(id);
+            return _context.Set<T>().FindAsync(id);
         }
 
         public async Task AddAsync(T entity)
         {
-            await _dbSet.AddAsync(entity);
+
+            await _context.Set<T>().AddAsync(entity);
             await _context.SaveChangesAsync();
         }
 
         public async Task UpdateAsync(T entity)
         {
-            _dbSet.Update(entity);
+            _context.Update(entity);
             await _context.SaveChangesAsync();
         }
 
-        public async Task DeleteAsync(int id)
+        public async Task DeleteAsync(T id)
         {
-            var entity = await _dbSet.FindAsync(id);
-            if (entity != null)
-            {
-                _dbSet.Remove(entity);
-                await _context.SaveChangesAsync();
-            }
+            // var entity = await _context.FindAsync(id);
+            //if (entity != null)
+            //{
+            //  _context.Remove(entity);
+            await _context.SaveChangesAsync();
+            //}
         }
+    }
 }

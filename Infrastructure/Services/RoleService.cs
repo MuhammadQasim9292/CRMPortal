@@ -19,39 +19,36 @@ using Microsoft.EntityFrameworkCore;
 namespace Infrastructure.Services
 {
  //   public class RoleService<T> : IRole<T> where T:RoleService<T>
-      public class RoleService
+      public class RoleService:IRole
     {
-        private readonly Database_context _context;
-        //private readonly Igeneric<T> GenericService;
-        private readonly GenericService generic;
-        public RoleService(Database_context db,GenericService generic)
+        private readonly IUnitOfWork _unitOfWork;
+        public RoleService(IUnitOfWork unitOfWork)
         {
-            _context = db;
-            this.generic = generic;
+            this._unitOfWork = unitOfWork;
+          
         }       
         public async  Task<ResponseVm> AddRole(RoleDTM role)
         {
 
         ResponseVm response = ResponseVm.GetResponseVmInstance;
-            var IsTypeExist = _context.Role.FirstOrDefault(x => x.Name == role.role_Name);
+           // var IsTypeExist = await _context.Role.FirstOrDefault(x => x.Name == role.role_Name);
 
-            if (IsTypeExist == null)
+            //if (IsTypeExist == null)
             {
                 var AddedType = new Role
                 {
                     Name = role.role_Name,
+                    Description=role.role_Description
                 };
-              //  var addedEntity= GenericService.AddRole(AddedType);
-                // T newT2 = (T)(object)t
-                //(T)Convert.ChangeType(AddedType, typeof(T))
-                generic.AddRole(AddedType);
+                await _unitOfWork.Roles.AddAsync(AddedType);
+                //generic.AddRole(AddedType);
                 // _context.Role.Add(AddedType);
                 // await _context.SaveChangesAsync();
                 response.ResponseCode = Responses.SuccessCode;
                 response.ResponseMessage = "role Added Successfully";
                // response.ResponseData = addedEntity;
             }
-            else
+           // else
             {
                 response.ResponseCode = Responses.BadRequestCode;
                 response.ResponseMessage = "Role Already Exist";
@@ -66,7 +63,7 @@ namespace Infrastructure.Services
         public async  Task<ResponseVm> DeleteRole(long id)
         {
             ResponseVm response = ResponseVm.GetResponseVmInstance;
-            string tablename = Tables.Role_Table;
+           /* string tablename = Tables.Role_Table;
             var IsExist = _context.Role.FirstOrDefault(x => x.Id == id);
             var isDeleted = await CommonOpertions.SoftDelete(CommonOpertions.GetConnectionString(), tablename, id);
             if (isDeleted == false)
@@ -81,6 +78,7 @@ namespace Infrastructure.Services
                 response.ResponseMessage = "Successfully deleted role";
                 response.ResponseData = isDeleted;
             }
+           */
             return response;
         }
 
@@ -134,7 +132,7 @@ namespace Infrastructure.Services
         public async Task<ResponseVm> UpdateRole(long id, RoleDTM role)
         {
             ResponseVm response = ResponseVm.GetResponseVmInstance;
-            var IsExist = _context.Role.FirstOrDefault(x => x.Id == id);
+           /* var IsExist = _context.Role.FirstOrDefault(x => x.Id == id);
 
             if (IsExist != null)
             {
@@ -154,7 +152,7 @@ namespace Infrastructure.Services
                 response.ResponseMessage = "Role not found";
                 response.ResponseData = null;
             }
-
+           */
             return response;
         }
     }

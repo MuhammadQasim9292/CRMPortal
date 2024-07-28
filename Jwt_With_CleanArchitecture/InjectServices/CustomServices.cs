@@ -17,8 +17,9 @@ namespace Jwt_With_CleanArchitecture.InjectServices
             //services.AddScoped<ITypeValue, TypeValueService>();
             services.AddScoped<IUser,UserService>();
             // services.AddScoped(typeof(IRole<>), typeof(RoleService<>));
-           // services.AddScoped<RoleService,GenericService>();
-            services.AddScoped< RoleService>();
+            // services.AddScoped<RoleService,GenericService>();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
+            services.AddTransient<IRole,RoleService>();
            // services.AddScoped<GenericService>();
             services.AddScoped<ISearch, SearchService>();
 

@@ -5657,11 +5657,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Application\\Application.csproj",
+      "projectUniqueName": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Application\\Application.csproj",
+      "projectPath": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Application\\obj\\",
+      "outputPath": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5679,11 +5679,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Common\\Common.csproj": {
-              "projectPath": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Common\\Common.csproj"
+            "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Common\\Common.csproj": {
+              "projectPath": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Common\\Common.csproj"
             },
-            "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Domain\\Domain.csproj"
+            "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Domain\\Domain.csproj"
             }
           }
         }

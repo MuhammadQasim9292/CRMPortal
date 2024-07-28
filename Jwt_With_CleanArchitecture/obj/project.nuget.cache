@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sSRnn7NKwmQ=",
+  "dgSpecHash": "QcF2y862YnA=",
   "success": true,
-  "projectFilePath": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
+  "projectFilePath": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",

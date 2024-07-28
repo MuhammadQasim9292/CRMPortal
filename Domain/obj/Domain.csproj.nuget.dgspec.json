@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Domain\\Domain.csproj": {}
+    "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Domain\\Domain.csproj": {
+    "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Domain\\Domain.csproj",
+        "projectPath": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Domain\\obj\\",
+        "outputPath": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
