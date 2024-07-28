@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Application.Interfaces;
+using Domain.Models.Entities;
 using Infrastructure.Context;
 using Infrastructure.Services.Repositories;
 
@@ -12,13 +13,14 @@ namespace Infrastructure
     public class UnitOfWork:IUnitOfWork
     {
         private readonly Database_context _context;
-        public  RoleRepository _roleRepository;
+        public  GenericRepository<Role> _roleRepository;
 
         public UnitOfWork(Database_context context)
         {
             this._context = context;
         }
-        public IRoleRepository Roles => _roleRepository = _roleRepository ?? new RoleRepository(_context);
+       //  public IRoleRepository Roles => _roleRepository = _roleRepository ?? new RoleRepository(_context);
+        public IGenericRepository<Role> Roles => _roleRepository ?? new GenericRepository<Role>(_context);
         public async Task<int> CommitAsync()
         {
             return await _context.SaveChangesAsync();
