@@ -7,19 +7,16 @@ using Application.Interfaces;
 using Infrastructure.Context;
 using Microsoft.EntityFrameworkCore;
 
-namespace Infrastructure.Services.Repositories
+namespace Infrastructure.Services
 {
-    public class GenericRepository<T> : IGenericRepository<T> where T : class
+    public class GenericService<T> : IGeneric<T> where T : class
     {
         protected readonly Database_context _context;
-
-
-        public GenericRepository(Database_context context)
+        public GenericService(Database_context context)
         {
             _context = context;
 
         }
-
         public async Task<IEnumerable<T>> GetAllAsync()
         {
             return await _context.Set<T>().ToListAsync();

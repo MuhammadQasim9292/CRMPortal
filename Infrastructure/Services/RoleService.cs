@@ -18,18 +18,20 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Infrastructure.Services
 {
- //   public class RoleService<T> : IRole<T> where T:RoleService<T>
-      public class RoleService:IRole
+    //   public class RoleService<T> : IRole<T> where T:RoleService<T>
+    public class RoleService:IRole
     {
-        private readonly IUnitOfWork _unitOfWork;
-        public RoleService(IUnitOfWork unitOfWork)
+        private readonly Database_context _context;
+        private GenericService<Role> _roleRepository;
+
+        public RoleService(Database_context context)
         {
-            this._unitOfWork = unitOfWork;
-          
+           /// this._unitOfWork = unitOfWork;
+            _context=context;
+            _roleRepository = new GenericService<Role>(_context);
         }       
         public async  Task<ResponseVm> AddRole(RoleDTM role)
         {
-
         ResponseVm response = ResponseVm.GetResponseVmInstance;
            // var IsTypeExist = await _context.Role.FirstOrDefault(x => x.Name == role.role_Name);
 
@@ -40,7 +42,7 @@ namespace Infrastructure.Services
                     Name = role.role_Name,
                     Description=role.role_Description
                 };
-                await _unitOfWork.Roles.AddAsync(AddedType);
+                await _roleRepository.AddAsync(AddedType);
                 //generic.AddRole(AddedType);
                 // _context.Role.Add(AddedType);
                 // await _context.SaveChangesAsync();

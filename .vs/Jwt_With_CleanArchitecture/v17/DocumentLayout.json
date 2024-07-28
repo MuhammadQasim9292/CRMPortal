@@ -3,52 +3,64 @@
   "WorkspaceRootPath": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\infrastructure\\services\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\infrastructure\\services\\typevalueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\typevalueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\application\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|solutionrelative:application\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\application\\interfaces\\irole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|solutionrelative:application\\interfaces\\irole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\jwt_with_cleanarchitecture\\injectservices\\customservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\injectservices\\customservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\jwt_with_cleanarchitecture\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\jwt_with_cleanarchitecture\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\jwt_with_cleanarchitecture\\controllers\\typevaluecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\controllers\\typevaluecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\jwt_with_cleanarchitecture\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\jwt_with_cleanarchitecture\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\application\\interfaces\\igeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|solutionrelative:application\\interfaces\\igeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\infrastructure\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\infrastructure\\services\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\infrastructure\\services\\typeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\typeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\infrastructure\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7500E882-6549-421A-9F65-85478F745639}|Common\\Common.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7500E882-6549-421A-9F65-85478F745639}|Common\\Common.csproj|solutionrelative:common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\application\\dtms\\responses\\responsevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|solutionrelative:application\\dtms\\responses\\responsevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\jwt_with_cleanarchitecture\\injectservices\\customservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\injectservices\\customservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\infrastructure\\services\\typevalueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\typevalueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\application\\interfaces\\irole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|solutionrelative:application\\interfaces\\irole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\infrastructure\\services\\typeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\typeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\jwt_with_cleanarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,16 +95,8 @@
       "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\controllers\\typecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\jwt_with_cleanarchitecture\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\domain\\models\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|solutionrelative:domain\\models\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\jwt_with_cleanarchitecture\\controllers\\typevaluecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\controllers\\typevaluecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -121,10 +125,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\domain\\models\\entities\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|solutionrelative:domain\\models\\entities\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\jwt_with_cleanarchitecture\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\jwt_with_cleanarchitecture\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -175,20 +175,12 @@
       "RelativeMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|solutionrelative:application\\dtms\\user\\usercreatedtm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7500E882-6549-421A-9F65-85478F745639}|Common\\Common.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7500E882-6549-421A-9F65-85478F745639}|Common\\Common.csproj|solutionrelative:common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\jwt_with_cleanarchitecture\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\jwt_with_cleanarchitecture\\jwt_with_cleanarchitecture.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\jwt_with_cleanarchitecture.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\jwt_with_cleanarchitecture\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\wordsenseintern\\sirqasimnew\\crmportal\\infrastructure\\migrations\\database_contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -243,7 +235,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "TypeValueDTM.cs",
               "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Application\\DTMs\\TypeValue\\TypeValueDTM.cs",
               "RelativeDocumentMoniker": "Application\\DTMs\\TypeValue\\TypeValueDTM.cs",
@@ -256,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "IRole.cs",
               "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Application\\Interfaces\\IRole.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\IRole.cs",
@@ -265,111 +257,110 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAA0wA8AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T11:39:02.578Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TypeValueService.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Infrastructure\\Services\\TypeValueService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\TypeValueService.cs",
-              "ToolTip": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Infrastructure\\Services\\TypeValueService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\TypeValueService.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAIA1wBYAAAABAAAA",
+              "DocumentIndex": 4,
+              "Title": "TypeValueController.cs",
+              "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\TypeValueController.cs",
+              "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\Controllers\\TypeValueController.cs",
+              "ToolTip": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\TypeValueController.cs",
+              "RelativeToolTip": "Jwt_With_CleanArchitecture\\Controllers\\TypeValueController.cs",
+              "ViewState": "AQIAACQAAADAzMzMzMwkwDwAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:32:40.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Application\\Interfaces\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\IUnitOfWork.cs",
-              "ToolTip": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Application\\Interfaces\\IUnitOfWork.cs",
-              "RelativeToolTip": "Application\\Interfaces\\IUnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T06:05:09.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Infrastructure\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\UnitOfWork.cs",
-              "ToolTip": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Infrastructure\\UnitOfWork.cs",
-              "RelativeToolTip": "Infrastructure\\UnitOfWork.cs",
-              "ViewState": "AQIAAAcAAAAgAAAAAAAAwBMAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T06:20:23.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Application\\Interfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Application\\Interfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "Application\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAuwBkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T06:08:43.687Z",
+              "WhenOpened": "2024-07-22T11:05:20.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "RoleController.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\RoleController.cs",
-              "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\Controllers\\RoleController.cs",
-              "ToolTip": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\RoleController.cs",
-              "RelativeToolTip": "Jwt_With_CleanArchitecture\\Controllers\\RoleController.cs",
-              "ViewState": "AQIAAC0AAABAMzMzMzMlwDUAAAAMAAAA",
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Jwt_With_CleanArchitecture\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAcwFUAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T12:17:16.567Z",
+              "WhenOpened": "2024-07-24T05:50:31.915Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Infrastructure\\Services\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\Repositories\\GenericRepository.cs",
-              "ToolTip": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Infrastructure\\Services\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\Repositories\\GenericRepository.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAtwCQAAAAMAAAA",
+              "DocumentIndex": 0,
+              "Title": "GenericService.cs",
+              "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Infrastructure\\Services\\GenericService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\GenericService.cs",
+              "ToolTip": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Infrastructure\\Services\\GenericService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\GenericService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T13:36:11.593Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RoleService.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Infrastructure\\Services\\RoleService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\RoleService.cs",
-              "ToolTip": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Infrastructure\\Services\\RoleService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\RoleService.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAADwvy4AAAAQAAAA",
+              "DocumentIndex": 1,
+              "Title": "CustomServices.cs",
+              "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\InjectServices\\CustomServices.cs",
+              "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\InjectServices\\CustomServices.cs",
+              "ToolTip": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\InjectServices\\CustomServices.cs",
+              "RelativeToolTip": "Jwt_With_CleanArchitecture\\InjectServices\\CustomServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T11:41:42.946Z",
+              "WhenOpened": "2024-07-24T05:24:03.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TypeService.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Infrastructure\\Services\\TypeService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\TypeService.cs",
-              "ToolTip": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Infrastructure\\Services\\TypeService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\TypeService.cs",
-              "ViewState": "AQIAAAoAAAAANDMzMzMTwCkAAAAyAAAA",
+              "DocumentIndex": 2,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\Controllers\\RoleController.cs",
+              "ToolTip": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Jwt_With_CleanArchitecture\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T05:28:57.95Z",
+              "WhenOpened": "2024-07-24T12:17:16.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchController.cs",
+              "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\SearchController.cs",
+              "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\Controllers\\SearchController.cs",
+              "ToolTip": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\SearchController.cs",
+              "RelativeToolTip": "Jwt_With_CleanArchitecture\\Controllers\\SearchController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:26:48.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Jwt_With_CleanArchitecture\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:50:43.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Common\\Class1.cs",
+              "RelativeDocumentMoniker": "Common\\Class1.cs",
+              "ToolTip": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Common\\Class1.cs",
+              "RelativeToolTip": "Common\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T07:48:27.137Z",
               "EditorCaption": ""
             },
             {
@@ -387,31 +378,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Infrastructure\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\RoleService.cs",
+              "ToolTip": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Infrastructure\\Services\\RoleService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\RoleService.cs",
+              "ViewState": "AQIAAA4AAABAMzMzMzMjwDAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T11:41:42.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGeneric.cs",
+              "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Application\\Interfaces\\IGeneric.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IGeneric.cs",
+              "ToolTip": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Application\\Interfaces\\IGeneric.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IGeneric.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T06:08:43.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ResponseVm.cs",
               "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Application\\DTMs\\Responses\\ResponseVm.cs",
               "RelativeDocumentMoniker": "Application\\DTMs\\Responses\\ResponseVm.cs",
               "ToolTip": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Application\\DTMs\\Responses\\ResponseVm.cs",
               "RelativeToolTip": "Application\\DTMs\\Responses\\ResponseVm.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T02:10:44.856Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CustomServices.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\InjectServices\\CustomServices.cs",
-              "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\InjectServices\\CustomServices.cs",
-              "ToolTip": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\InjectServices\\CustomServices.cs",
-              "RelativeToolTip": "Jwt_With_CleanArchitecture\\InjectServices\\CustomServices.cs",
-              "ViewState": "AQIAAAoAAADAzMzMzMwuwBQAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T05:24:03.896Z"
+              "WhenOpened": "2024-07-23T02:10:44.856Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "TypeValueService.cs",
+              "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Infrastructure\\Services\\TypeValueService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\TypeValueService.cs",
+              "ToolTip": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Infrastructure\\Services\\TypeValueService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\TypeValueService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIA1wBYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:32:40.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TypeService.cs",
+              "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Infrastructure\\Services\\TypeService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\TypeService.cs",
+              "ToolTip": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Infrastructure\\Services\\TypeService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\TypeService.cs",
+              "ViewState": "AQIAAAoAAAAANDMzMzMTwCkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:28:57.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\Program.cs",
               "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\Program.cs",
@@ -423,7 +454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\appsettings.json",
               "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\appsettings.json",
@@ -435,7 +466,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "BasicEntity.cs",
               "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Domain\\Models\\BaseEntitiyModels\\BasicEntity.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\BaseEntitiyModels\\BasicEntity.cs",
@@ -447,7 +478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Domain\\Models\\Entities\\Employee.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Entities\\Employee.cs",
@@ -459,7 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "CommonOpertions.cs",
               "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Common\\CommonMethods\\CommonOpertions.cs",
               "RelativeDocumentMoniker": "Common\\CommonMethods\\CommonOpertions.cs",
@@ -471,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Responses.cs",
               "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Common\\Constants\\Responses.cs",
               "RelativeDocumentMoniker": "Common\\Constants\\Responses.cs",
@@ -483,7 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "TypeController.cs",
               "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\TypeController.cs",
               "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\Controllers\\TypeController.cs",
@@ -495,19 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "SearchController.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\SearchController.cs",
-              "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\Controllers\\SearchController.cs",
-              "ToolTip": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\SearchController.cs",
-              "RelativeToolTip": "Jwt_With_CleanArchitecture\\Controllers\\SearchController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBkAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T13:26:48.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Role.cs",
               "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Domain\\Models\\Entities\\Role.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Entities\\Role.cs",
@@ -519,19 +538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "TypeValueController.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\TypeValueController.cs",
-              "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\Controllers\\TypeValueController.cs",
-              "ToolTip": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\TypeValueController.cs",
-              "RelativeToolTip": "Jwt_With_CleanArchitecture\\Controllers\\TypeValueController.cs",
-              "ViewState": "AQIAACQAAADAzMzMzMwkwDwAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T11:05:20.265Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Infrastructure\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\UserService.cs",
@@ -543,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Jwt_With_CleanArchitecture",
               "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
               "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
@@ -554,7 +561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\Properties\\launchSettings.json",
@@ -566,7 +573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "ISearch.cs",
               "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Application\\Interfaces\\ISearch.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\ISearch.cs",
@@ -578,7 +585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Domain\\Models\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Entities\\User.cs",
@@ -590,7 +597,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "TypeValue.cs",
               "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Domain\\Models\\Entities\\TypeValue.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Entities\\TypeValue.cs",
@@ -602,7 +609,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Types.cs",
               "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Domain\\Models\\Entities\\Types.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Entities\\Types.cs",
@@ -611,19 +618,6 @@
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T05:25:27.369Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Jwt_With_CleanArchitecture\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAcwFUAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T05:50:31.915Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -735,7 +729,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 53,
               "Title": "20240724101351_AddIsActive_TBL_Role.cs",
               "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Infrastructure\\Migrations\\20240724101351_AddIsActive_TBL_Role.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240724101351_AddIsActive_TBL_Role.cs",
@@ -747,7 +741,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 54,
               "Title": "20240724095921_IsActive_TBL_roleAdded.cs",
               "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Infrastructure\\Migrations\\20240724095921_IsActive_TBL_roleAdded.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240724095921_IsActive_TBL_roleAdded.cs",
@@ -759,7 +753,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 55,
               "Title": "20240724095353_CreatedTBL_Role.cs",
               "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Infrastructure\\Migrations\\20240724095353_CreatedTBL_Role.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240724095353_CreatedTBL_Role.cs",
@@ -783,7 +777,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 43,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\WeatherForecast.cs",
@@ -795,7 +789,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 44,
               "Title": "Jwt_With_CleanArchitecture.http",
               "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.http",
               "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.http",
@@ -807,19 +801,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Jwt_With_CleanArchitecture\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAmwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T05:50:43.498Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 51,
               "Title": "20240724053059_ForeignKeyConstraint.cs",
               "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Infrastructure\\Migrations\\20240724053059_ForeignKeyConstraint.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240724053059_ForeignKeyConstraint.cs",
@@ -855,7 +837,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 46,
               "Title": "20240724011045_longIDS.cs",
               "DocumentMoniker": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Infrastructure\\Migrations\\20240724011045_longIDS.cs",
               "RelativeDocumentMoniker": "..\\..\\MedicalCRM_SirQasim\\CRMPortal\\Infrastructure\\Migrations\\20240724011045_longIDS.cs",
@@ -867,7 +849,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 49,
               "Title": "20240724010458_ForeigNkeyConstraint.cs",
               "DocumentMoniker": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Infrastructure\\Migrations\\20240724010458_ForeigNkeyConstraint.cs",
               "RelativeDocumentMoniker": "..\\..\\MedicalCRM_SirQasim\\CRMPortal\\Infrastructure\\Migrations\\20240724010458_ForeigNkeyConstraint.cs",
@@ -879,7 +861,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 47,
               "Title": "20240724010236_ColoumnNamesChanged.cs",
               "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Infrastructure\\Migrations\\20240724010236_ColoumnNamesChanged.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240724010236_ColoumnNamesChanged.cs",
@@ -891,7 +873,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 50,
               "Title": "20240724004932_AddColoumnLongIds.cs",
               "DocumentMoniker": "D:\\WordSenseIntern\\MedicalCRM_SirQasim\\CRMPortal\\Infrastructure\\Migrations\\20240724004932_AddColoumnLongIds.cs",
               "RelativeDocumentMoniker": "..\\..\\MedicalCRM_SirQasim\\CRMPortal\\Infrastructure\\Migrations\\20240724004932_AddColoumnLongIds.cs",
@@ -903,7 +885,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 45,
               "Title": "Database_contextModelSnapshot.cs",
               "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Infrastructure\\Migrations\\Database_contextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\Database_contextModelSnapshot.cs",
@@ -915,7 +897,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 48,
               "Title": "20240723091601_DropforeignKeys.cs",
               "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Infrastructure\\Migrations\\20240723091601_DropforeignKeys.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240723091601_DropforeignKeys.cs",
@@ -927,7 +909,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 52,
               "Title": "20240723090952_DropForeignKeys.cs",
               "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Infrastructure\\Migrations\\20240723090952_DropForeignKeys.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240723090952_DropForeignKeys.cs",
@@ -935,18 +917,6 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240723090952_DropForeignKeys.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-23T09:09:52.261Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Common\\Class1.cs",
-              "RelativeDocumentMoniker": "Common\\Class1.cs",
-              "ToolTip": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Common\\Class1.cs",
-              "RelativeToolTip": "Common\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T07:48:27.137Z"
             }
           ]
         }

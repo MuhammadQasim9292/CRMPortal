@@ -14,15 +14,10 @@ namespace Jwt_With_CleanArchitecture.Controllers
     [Route("api/[controller]")]
     [ApiController]
     public class RoleController : ControllerBase
-    //public class RoleController<T> : ControllerBase
     {
      private readonly IRole _roleService;
-        //private readonly IRole<T> _roleService;
-
         public RoleController(IRole roleService)
-              //public RoleController(IRole<T> roleService)
         {
-           // GenericService.z
             _roleService = roleService;
            
         }
