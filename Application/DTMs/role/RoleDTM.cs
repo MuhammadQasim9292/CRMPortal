@@ -10,7 +10,7 @@ namespace Application.DTMs.role
 {
     public record RoleDTM
 (
-  
+    //long role_id,
     string role_Name,
       string role_Description,
         bool role_IsActive

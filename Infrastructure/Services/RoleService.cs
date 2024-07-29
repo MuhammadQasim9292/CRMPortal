@@ -14,61 +14,57 @@ using Domain.Models.Entities;
 using Infrastructure.Context;
 using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
+using static Dapper.SqlMapper;
 
 
 namespace Infrastructure.Services
 {
-    //   public class RoleService<T> : IRole<T> where T:RoleService<T>
     public class RoleService:IRole
     {
         private readonly Database_context _context;
-        private GenericService<Role> _roleRepository;
+        private IGeneric<Role> _roleRepository;
 
         public RoleService(Database_context context)
         {
-           /// this._unitOfWork = unitOfWork;
             _context=context;
             _roleRepository = new GenericService<Role>(_context);
         }       
         public async  Task<ResponseVm> AddRole(RoleDTM role)
         {
         ResponseVm response = ResponseVm.GetResponseVmInstance;
-           // var IsTypeExist = await _context.Role.FirstOrDefault(x => x.Name == role.role_Name);
-
-            //if (IsTypeExist == null)
+            Role AddedType = new Role
             {
-                var AddedType = new Role
-                {
-                    Name = role.role_Name,
-                    Description=role.role_Description
-                };
+                Name = role.role_Name,
+                Description = role.role_Description,
+                IsDeleted = false,
+                IsActive =false,
+
+            };
+            if (AddedType != null)
+            {
                 await _roleRepository.AddAsync(AddedType);
-                //generic.AddRole(AddedType);
-                // _context.Role.Add(AddedType);
-                // await _context.SaveChangesAsync();
                 response.ResponseCode = Responses.SuccessCode;
                 response.ResponseMessage = "role Added Successfully";
-               // response.ResponseData = addedEntity;
+                response.ResponseData = role;
             }
-           // else
+           else
             {
-                response.ResponseCode = Responses.BadRequestCode;
+               response.ResponseCode = Responses.BadRequestCode;
                 response.ResponseMessage = "Role Already Exist";
                 response.ResponseData = null;
-
-            }
+           }
 
 
             return response;
         }
-
         public async  Task<ResponseVm> DeleteRole(long id)
         {
             ResponseVm response = ResponseVm.GetResponseVmInstance;
-           /* string tablename = Tables.Role_Table;
+            string tablename = Tables.Role_Table;
+
             var IsExist = _context.Role.FirstOrDefault(x => x.Id == id);
-            var isDeleted = await CommonOpertions.SoftDelete(CommonOpertions.GetConnectionString(), tablename, id);
-            if (isDeleted == false)
+            var isDeleted = _roleRepository.SoftDelete(id, tablename);
+            if (isDeleted == null)
             {
                 response.ResponseCode = Responses.BadRequestCode;
                 response.ResponseMessage = "Unable to delete role";
@@ -78,21 +74,17 @@ namespace Infrastructure.Services
             {
                 response.ResponseCode = Responses.SuccessCode;
                 response.ResponseMessage = "Successfully deleted role";
-                response.ResponseData = isDeleted;
+                response.ResponseData = null;
             }
-           */
-            return response;
+                     return response;
         }
 
         public async Task<ResponseVm> GetAllRole()
         {
            ResponseVm response = ResponseVm.GetResponseVmInstance;
-            string query = "SELECT Name,Description,IsActive from Role";
-            using (var connection = new SqlConnection(CommonOpertions.GetConnectionString()))
-            {
-                var types = await connection.QueryAsync<dynamic>(query);
-                var allTypes = types.ToList();
-                if (allTypes == null)
+            string tablename=Tables.Role_Table;
+            var allTypes = await _roleRepository.GetAllAsync();
+            if (allTypes == null)
                 {
                     response.ResponseCode = Responses.NotFoundCode;
                     response.ResponseMessage = "NOT founded Role";
@@ -106,17 +98,15 @@ namespace Infrastructure.Services
                     response.ResponseData = allTypes;
                 }
                 return response;
-            }
         }
 
-        public  async Task<ResponseVm> GetRolebyId(long id) //heckit?
+        public  async Task<ResponseVm> GetRolebyId(long id)
         {
             ResponseVm response = ResponseVm.GetResponseVmInstance;
-            var parameters = new DynamicParameters();
-            parameters.Add("@Id", id);
-            var typevalue = await CommonOpertions.ExecuteStoredProceduresList("StpGetTypeRoleById", parameters, CommonOpertions.GetConnectionString());
-            var TypeValueData = typevalue.ToList();
-            if (TypeValueData.Count == 0)
+            var TypeValueData = await _roleRepository.GetByIdAsync(id);
+
+
+            if (TypeValueData== null)
             {
                 response.ResponseCode = Responses.NotFoundCode;
                 response.ResponseMessage = "Role not found";
@@ -134,14 +124,15 @@ namespace Infrastructure.Services
         public async Task<ResponseVm> UpdateRole(long id, RoleDTM role)
         {
             ResponseVm response = ResponseVm.GetResponseVmInstance;
-           /* var IsExist = _context.Role.FirstOrDefault(x => x.Id == id);
+              var IsExist = _context.Role.FirstOrDefault(x => x.Id == id);
 
             if (IsExist != null)
             {
 
                 IsExist.Name = role.role_Name;
+                IsExist.Description = role.role_Description;        
                 IsExist.UpdatedDate = DateTime.Now;
-                await _context.SaveChangesAsync();
+                await _roleRepository.UpdateAsync(IsExist);
                 response.ResponseCode = Responses.SuccessCode;
                 response.ResponseMessage = " Updated Successfully";
                 response.ResponseData = role;
@@ -154,7 +145,6 @@ namespace Infrastructure.Services
                 response.ResponseMessage = "Role not found";
                 response.ResponseData = null;
             }
-           */
             return response;
         }
     }

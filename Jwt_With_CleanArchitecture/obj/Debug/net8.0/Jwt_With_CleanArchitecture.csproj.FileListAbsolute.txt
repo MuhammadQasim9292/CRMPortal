@@ -745,3 +745,4 @@ D:\WordSenseIntern\SirQasimNEw\CRMPortal\Jwt_With_CleanArchitecture\obj\Debug\ne
 D:\WordSenseIntern\SirQasimNEw\CRMPortal\Jwt_With_CleanArchitecture\obj\Debug\net8.0\Jwt_With.0872D1AE.Up2Date
 D:\WordSenseIntern\SirQasimNEw\CRMPortal\Jwt_With_CleanArchitecture\obj\Debug\net8.0\Jwt_With_CleanArchitecture.genruntimeconfig.cache
 D:\WordSenseIntern\SirQasimNEw\CRMPortal\Jwt_With_CleanArchitecture\obj\Debug\net8.0\ref\Jwt_With_CleanArchitecture.dll
+D:\WordSenseIntern\SirQasimNEw\CRMPortal\Jwt_With_CleanArchitecture\bin\Debug\net8.0\Newtonsoft.Json.dll

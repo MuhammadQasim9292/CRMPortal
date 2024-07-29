@@ -63,7 +63,7 @@ namespace Jwt_With_CleanArchitecture.Controllers
             if (!ModelState.IsValid)
                 return BadRequest();
 
-            var response = await _roleService.DeleteRole(id);
+             ResponseVm response = await _roleService.DeleteRole(id);
             return Ok(response);
         }
     }

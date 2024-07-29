@@ -1,11 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Application.Interfaces;
+using Common.CommonMethods;
+using Common.Constants;
+using Dapper;
+using Domain.Models.Entities;
 using Infrastructure.Context;
+using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Conventions;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using Microsoft.VisualBasic;
+using static Dapper.SqlMapper;
 
 namespace Infrastructure.Services
 {
@@ -15,18 +25,15 @@ namespace Infrastructure.Services
         public GenericService(Database_context context)
         {
             _context = context;
-
         }
         public async Task<IEnumerable<T>> GetAllAsync()
         {
             return await _context.Set<T>().ToListAsync();
         }
-
-        public ValueTask<T> GetByIdAsync(int id)
+        public  ValueTask<T> GetByIdAsync(long id)
         {
-            return _context.Set<T>().FindAsync(id);
+            return  _context.Set<T>().FindAsync(id);
         }
-
         public async Task AddAsync(T entity)
         {
 
@@ -39,15 +46,10 @@ namespace Infrastructure.Services
             _context.Update(entity);
             await _context.SaveChangesAsync();
         }
-
-        public async Task DeleteAsync(T id)
+        public async Task<bool> SoftDelete(long id,string tablename)
         {
-            // var entity = await _context.FindAsync(id);
-            //if (entity != null)
-            //{
-            //  _context.Remove(entity);
-            await _context.SaveChangesAsync();
-            //}
+            bool IsDeleted= await CommonOpertions.SoftDelete(CommonOpertions.GetConnectionString(), tablename, id);
+            return IsDeleted;
         }
     }
 }

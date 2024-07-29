@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Application.DTMs.Types;
 using Common.Responses;
 using Application.DTMs.role;
+using Domain.Models.Entities;
 namespace Application.Interfaces
 {
     public interface IRole
@@ -16,5 +17,6 @@ namespace Application.Interfaces
         Task<ResponseVm> AddRole(RoleDTM role);
         Task<ResponseVm> UpdateRole(long id, RoleDTM role);
         Task<ResponseVm> DeleteRole(long id);
+      
     }
 }
