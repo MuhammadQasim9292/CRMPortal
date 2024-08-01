@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Common\\Common.csproj": {}
+    "D:\\WordSenseIntern\\Git_Merge\\CRMPortal\\Common\\Common.csproj": {}
   },
   "projects": {
-    "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Common\\Common.csproj": {
+    "D:\\WordSenseIntern\\Git_Merge\\CRMPortal\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\WordSenseIntern\\Git_Merge\\CRMPortal\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Common\\Common.csproj",
+        "projectPath": "D:\\WordSenseIntern\\Git_Merge\\CRMPortal\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\WordSenseIntern\\SirQasimNEw\\CRMPortal\\Common\\obj\\",
+        "outputPath": "D:\\WordSenseIntern\\Git_Merge\\CRMPortal\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
