@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Jwt_With_CleanArchitecture")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0dd61fb9f82d7af75b0bb95661c74e7c737e6b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f129195343119dc8963575e5b651e0aa5c0a92c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Jwt_With_CleanArchitecture")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Jwt_With_CleanArchitecture")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

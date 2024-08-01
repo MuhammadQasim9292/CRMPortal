@@ -4912,11 +4912,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
+      "projectUniqueName": "D:\\project1CRM\\CRMPortal\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
       "projectName": "Jwt_With_CleanArchitecture",
-      "projectPath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
+      "projectPath": "D:\\project1CRM\\CRMPortal\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
       "packagesPath": "C:\\Users\\Winnie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Jwt_With_CleanArchitecture\\obj\\",
+      "outputPath": "D:\\project1CRM\\CRMPortal\\Jwt_With_CleanArchitecture\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Winnie\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4934,17 +4934,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Application\\Application.csproj"
+            "D:\\project1CRM\\CRMPortal\\Application\\Application.csproj": {
+              "projectPath": "D:\\project1CRM\\CRMPortal\\Application\\Application.csproj"
             },
-            "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Common\\Common.csproj": {
-              "projectPath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Common\\Common.csproj"
+            "D:\\project1CRM\\CRMPortal\\Common\\Common.csproj": {
+              "projectPath": "D:\\project1CRM\\CRMPortal\\Common\\Common.csproj"
             },
-            "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Domain\\Domain.csproj"
+            "D:\\project1CRM\\CRMPortal\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\project1CRM\\CRMPortal\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Infrastructure\\Infrastructure.csproj"
+            "D:\\project1CRM\\CRMPortal\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\project1CRM\\CRMPortal\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

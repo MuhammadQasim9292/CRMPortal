@@ -1,75 +1,75 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\",
+  "WorkspaceRootPath": "D:\\project1CRM\\CRMPortal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Infrastructure\\Migrations\\20240726183919_init22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20240726183919_init22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\project1crm\\crmportal\\infrastructure\\services\\employee_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\employee_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\project1crm\\crmportal\\infrastructure\\migrations\\20240726183919_init22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20240726183919_init22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Winnie\\AppData\\Local\\SourceServer\\99255c125ce76fdaa8dfdfdef5e6673904e39580f9e0f5574fdca26a8ab02d0a\\Jwt_With_CleanArchitecture\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|c:\\users\\winnie\\downloads\\project (1)\\project\\c#\\git\\crmportal\\jwt_with_cleanarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\project1crm\\crmportal\\jwt_with_cleanarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|c:\\users\\winnie\\downloads\\project (1)\\project\\c#\\git\\crmportal\\jwt_with_cleanarchitecture\\injectservices\\customservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\project1crm\\crmportal\\jwt_with_cleanarchitecture\\injectservices\\customservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\injectservices\\customservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|c:\\users\\winnie\\downloads\\project (1)\\project\\c#\\git\\crmportal\\infrastructure\\context\\db_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\project1crm\\crmportal\\infrastructure\\context\\db_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context\\db_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|c:\\users\\winnie\\downloads\\project (1)\\project\\c#\\git\\crmportal\\jwt_with_cleanarchitecture\\controllers\\employeecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\project1crm\\crmportal\\jwt_with_cleanarchitecture\\controllers\\employeecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\controllers\\employeecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|c:\\users\\winnie\\downloads\\project (1)\\project\\c#\\git\\crmportal\\application\\interfaces\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|d:\\project1crm\\crmportal\\application\\interfaces\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|solutionrelative:application\\interfaces\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|c:\\users\\winnie\\downloads\\project (1)\\project\\c#\\git\\crmportal\\infrastructure\\services\\employee_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\employee_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|c:\\users\\winnie\\downloads\\project (1)\\project\\c#\\git\\crmportal\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\project1crm\\crmportal\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|c:\\users\\winnie\\downloads\\project (1)\\project\\c#\\git\\crmportal\\jwt_with_cleanarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\project1crm\\crmportal\\jwt_with_cleanarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7500E882-6549-421A-9F65-85478F745639}|Common\\Common.csproj|c:\\users\\winnie\\downloads\\project (1)\\project\\c#\\git\\crmportal\\common\\commonmethods\\commonopertions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7500E882-6549-421A-9F65-85478F745639}|Common\\Common.csproj|d:\\project1crm\\crmportal\\common\\commonmethods\\commonopertions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7500E882-6549-421A-9F65-85478F745639}|Common\\Common.csproj|solutionrelative:common\\commonmethods\\commonopertions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Winnie\\AppData\\Local\\SourceServer\\f9976d39bf3a4804adcdec74df0bf709184ef9462a7af10656ccafe4a3251fa7\\Jwt_With_CleanArchitecture\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|c:\\users\\winnie\\downloads\\project (1)\\project\\c#\\git\\crmportal\\application\\dtms\\token\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|d:\\project1crm\\crmportal\\application\\dtms\\token\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|solutionrelative:application\\dtms\\token\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|c:\\users\\winnie\\downloads\\project (1)\\project\\c#\\git\\crmportal\\application\\dtms\\dtm\\employeedtm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|d:\\project1crm\\crmportal\\application\\dtms\\dtm\\employeedtm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|solutionrelative:application\\dtms\\dtm\\employeedtm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|c:\\users\\winnie\\downloads\\project (1)\\project\\c#\\git\\crmportal\\application\\dtms\\responses\\departmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|d:\\project1crm\\crmportal\\application\\dtms\\responses\\departmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|solutionrelative:application\\dtms\\responses\\departmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|c:\\users\\winnie\\downloads\\project (1)\\project\\c#\\git\\crmportal\\domain\\models\\baseentitiymodels\\employee_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|d:\\project1crm\\crmportal\\domain\\models\\baseentitiymodels\\employee_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|solutionrelative:domain\\models\\baseentitiymodels\\employee_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|c:\\users\\winnie\\downloads\\project (1)\\project\\c#\\git\\crmportal\\domain\\models\\entities\\employe_entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|d:\\project1crm\\crmportal\\domain\\models\\entities\\employe_entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|solutionrelative:domain\\models\\entities\\employe_entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7500E882-6549-421A-9F65-85478F745639}|Common\\Common.csproj|c:\\users\\winnie\\downloads\\project (1)\\project\\c#\\git\\crmportal\\common\\constants\\responses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7500E882-6549-421A-9F65-85478F745639}|Common\\Common.csproj|d:\\project1crm\\crmportal\\common\\constants\\responses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7500E882-6549-421A-9F65-85478F745639}|Common\\Common.csproj|solutionrelative:common\\constants\\responses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -80,11 +80,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240726183919_init22.cs",
+              "DocumentMoniker": "D:\\project1CRM\\CRMPortal\\Infrastructure\\Migrations\\20240726183919_init22.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240726183919_init22.cs",
+              "ToolTip": "D:\\project1CRM\\CRMPortal\\Infrastructure\\Migrations\\20240726183919_init22.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20240726183919_init22.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T18:39:19.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Winnie\\AppData\\Local\\SourceServer\\99255c125ce76fdaa8dfdfdef5e6673904e39580f9e0f5574fdca26a8ab02d0a\\Jwt_With_CleanArchitecture\\Program.cs",
+              "ToolTip": "C:\\Users\\Winnie\\AppData\\Local\\SourceServer\\99255c125ce76fdaa8dfdfdef5e6673904e39580f9e0f5574fdca26a8ab02d0a\\Jwt_With_CleanArchitecture\\Program.cs [Read Only]",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAgwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T18:31:28.296Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\project1CRM\\CRMPortal\\Jwt_With_CleanArchitecture\\Program.cs",
+              "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\Program.cs",
+              "ToolTip": "D:\\project1CRM\\CRMPortal\\Jwt_With_CleanArchitecture\\Program.cs",
+              "RelativeToolTip": "Jwt_With_CleanArchitecture\\Program.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:50:02.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "employeecontroller .cs",
+              "DocumentMoniker": "D:\\project1CRM\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\employeecontroller .cs",
+              "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\Controllers\\employeecontroller .cs",
+              "ToolTip": "D:\\project1CRM\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\employeecontroller .cs",
+              "RelativeToolTip": "Jwt_With_CleanArchitecture\\Controllers\\employeecontroller .cs",
+              "ViewState": "AQIAACoAAAAAAAAAAADwv0EAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:54:42.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "employee_Service.cs",
+              "DocumentMoniker": "D:\\project1CRM\\CRMPortal\\Infrastructure\\Services\\employee_Service.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\employee_Service.cs",
+              "ToolTip": "D:\\project1CRM\\CRMPortal\\Infrastructure\\Services\\employee_Service.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\employee_Service.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAiwKcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:00:19.188Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -96,141 +157,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20240726183919_init22.cs",
-              "DocumentMoniker": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Infrastructure\\Migrations\\20240726183919_init22.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240726183919_init22.cs",
-              "ToolTip": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Infrastructure\\Migrations\\20240726183919_init22.cs",
-              "RelativeToolTip": "Infrastructure\\Migrations\\20240726183919_init22.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 7,
+              "Title": "employee.cs",
+              "DocumentMoniker": "D:\\project1CRM\\CRMPortal\\Application\\Interfaces\\employee.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\employee.cs",
+              "ToolTip": "D:\\project1CRM\\CRMPortal\\Application\\Interfaces\\employee.cs",
+              "RelativeToolTip": "Application\\Interfaces\\employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T18:39:19.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Winnie\\AppData\\Local\\SourceServer\\99255c125ce76fdaa8dfdfdef5e6673904e39580f9e0f5574fdca26a8ab02d0a\\Jwt_With_CleanArchitecture\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\99255c125ce76fdaa8dfdfdef5e6673904e39580f9e0f5574fdca26a8ab02d0a\\Jwt_With_CleanArchitecture\\Program.cs",
-              "ToolTip": "C:\\Users\\Winnie\\AppData\\Local\\SourceServer\\99255c125ce76fdaa8dfdfdef5e6673904e39580f9e0f5574fdca26a8ab02d0a\\Jwt_With_CleanArchitecture\\Program.cs [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\99255c125ce76fdaa8dfdfdef5e6673904e39580f9e0f5574fdca26a8ab02d0a\\Jwt_With_CleanArchitecture\\Program.cs [Read Only]",
-              "ViewState": "AQIAAFIAAAAAAAAAAAAgwFoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T18:31:28.296Z",
-              "EditorCaption": " [Read Only]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Jwt_With_CleanArchitecture\\Program.cs",
-              "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\Program.cs",
-              "ToolTip": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Jwt_With_CleanArchitecture\\Program.cs",
-              "RelativeToolTip": "Jwt_With_CleanArchitecture\\Program.cs",
-              "ViewState": "AQIAAF4AAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T16:50:02.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T07:38:40.375Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "employeecontroller .cs",
-              "DocumentMoniker": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\employeecontroller .cs",
-              "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\Controllers\\employeecontroller .cs",
-              "ToolTip": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\employeecontroller .cs",
-              "RelativeToolTip": "Jwt_With_CleanArchitecture\\Controllers\\employeecontroller .cs",
-              "ViewState": "AQIAACoAAAAAAAAAAADwv0EAAAAkAAAA",
+              "Title": "db_context.cs",
+              "DocumentMoniker": "D:\\project1CRM\\CRMPortal\\Infrastructure\\Context\\db_context.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Context\\db_context.cs",
+              "ToolTip": "D:\\project1CRM\\CRMPortal\\Infrastructure\\Context\\db_context.cs",
+              "RelativeToolTip": "Infrastructure\\Context\\db_context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T07:54:42.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "employee.cs",
-              "DocumentMoniker": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Application\\Interfaces\\employee.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\employee.cs",
-              "ToolTip": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Application\\Interfaces\\employee.cs",
-              "RelativeToolTip": "Application\\Interfaces\\employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T07:38:40.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T16:49:17.149Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "db_context.cs",
-              "DocumentMoniker": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Infrastructure\\Context\\db_context.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Context\\db_context.cs",
-              "ToolTip": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Infrastructure\\Context\\db_context.cs",
-              "RelativeToolTip": "Infrastructure\\Context\\db_context.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T16:49:17.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "CustomServices.cs",
-              "DocumentMoniker": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Jwt_With_CleanArchitecture\\InjectServices\\CustomServices.cs",
+              "DocumentMoniker": "D:\\project1CRM\\CRMPortal\\Jwt_With_CleanArchitecture\\InjectServices\\CustomServices.cs",
               "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\InjectServices\\CustomServices.cs",
-              "ToolTip": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Jwt_With_CleanArchitecture\\InjectServices\\CustomServices.cs",
+              "ToolTip": "D:\\project1CRM\\CRMPortal\\Jwt_With_CleanArchitecture\\InjectServices\\CustomServices.cs",
               "RelativeToolTip": "Jwt_With_CleanArchitecture\\InjectServices\\CustomServices.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T07:59:49.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "employee_Service.cs",
-              "DocumentMoniker": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Infrastructure\\Services\\employee_Service.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\employee_Service.cs",
-              "ToolTip": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Infrastructure\\Services\\employee_Service.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\employee_Service.cs",
-              "ViewState": "AQIAAIcAAAAAAAAAAAAiwKcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T07:00:19.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T07:59:49.476Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Infrastructure\\Class1.cs",
+              "DocumentMoniker": "D:\\project1CRM\\CRMPortal\\Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
-              "ToolTip": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\project1CRM\\CRMPortal\\Infrastructure\\Class1.cs",
               "RelativeToolTip": "Infrastructure\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T10:57:30.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T10:57:30.883Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Jwt_With_CleanArchitecture\\appsettings.json",
+              "DocumentMoniker": "D:\\project1CRM\\CRMPortal\\Jwt_With_CleanArchitecture\\appsettings.json",
               "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\appsettings.json",
-              "ToolTip": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Jwt_With_CleanArchitecture\\appsettings.json",
+              "ToolTip": "D:\\project1CRM\\CRMPortal\\Jwt_With_CleanArchitecture\\appsettings.json",
               "RelativeToolTip": "Jwt_With_CleanArchitecture\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-23T16:50:10.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T16:50:10.081Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "CommonOpertions.cs",
-              "DocumentMoniker": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Common\\CommonMethods\\CommonOpertions.cs",
+              "DocumentMoniker": "D:\\project1CRM\\CRMPortal\\Common\\CommonMethods\\CommonOpertions.cs",
               "RelativeDocumentMoniker": "Common\\CommonMethods\\CommonOpertions.cs",
-              "ToolTip": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Common\\CommonMethods\\CommonOpertions.cs",
+              "ToolTip": "D:\\project1CRM\\CRMPortal\\Common\\CommonMethods\\CommonOpertions.cs",
               "RelativeToolTip": "Common\\CommonMethods\\CommonOpertions.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -241,9 +232,7 @@
               "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Winnie\\AppData\\Local\\SourceServer\\f9976d39bf3a4804adcdec74df0bf709184ef9462a7af10656ccafe4a3251fa7\\Jwt_With_CleanArchitecture\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\f9976d39bf3a4804adcdec74df0bf709184ef9462a7af10656ccafe4a3251fa7\\Jwt_With_CleanArchitecture\\Program.cs",
               "ToolTip": "C:\\Users\\Winnie\\AppData\\Local\\SourceServer\\f9976d39bf3a4804adcdec74df0bf709184ef9462a7af10656ccafe4a3251fa7\\Jwt_With_CleanArchitecture\\Program.cs [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\f9976d39bf3a4804adcdec74df0bf709184ef9462a7af10656ccafe4a3251fa7\\Jwt_With_CleanArchitecture\\Program.cs [Read Only]",
               "ViewState": "AQIAAD0AAAAAAAAAAAAgwEgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T08:12:28.754Z",
@@ -253,9 +242,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "token.cs",
-              "DocumentMoniker": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Application\\DTMs\\token\\token.cs",
+              "DocumentMoniker": "D:\\project1CRM\\CRMPortal\\Application\\DTMs\\token\\token.cs",
               "RelativeDocumentMoniker": "Application\\DTMs\\token\\token.cs",
-              "ToolTip": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Application\\DTMs\\token\\token.cs",
+              "ToolTip": "D:\\project1CRM\\CRMPortal\\Application\\DTMs\\token\\token.cs",
               "RelativeToolTip": "Application\\DTMs\\token\\token.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -265,9 +254,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "employeeDTM.cs",
-              "DocumentMoniker": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Application\\DTMs\\dtm\\employeeDTM.cs",
+              "DocumentMoniker": "D:\\project1CRM\\CRMPortal\\Application\\DTMs\\dtm\\employeeDTM.cs",
               "RelativeDocumentMoniker": "Application\\DTMs\\dtm\\employeeDTM.cs",
-              "ToolTip": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Application\\DTMs\\dtm\\employeeDTM.cs",
+              "ToolTip": "D:\\project1CRM\\CRMPortal\\Application\\DTMs\\dtm\\employeeDTM.cs",
               "RelativeToolTip": "Application\\DTMs\\dtm\\employeeDTM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -277,9 +266,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "departmentVm.cs",
-              "DocumentMoniker": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Application\\DTMs\\Responses\\departmentVm.cs",
+              "DocumentMoniker": "D:\\project1CRM\\CRMPortal\\Application\\DTMs\\Responses\\departmentVm.cs",
               "RelativeDocumentMoniker": "Application\\DTMs\\Responses\\departmentVm.cs",
-              "ToolTip": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Application\\DTMs\\Responses\\departmentVm.cs",
+              "ToolTip": "D:\\project1CRM\\CRMPortal\\Application\\DTMs\\Responses\\departmentVm.cs",
               "RelativeToolTip": "Application\\DTMs\\Responses\\departmentVm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -289,9 +278,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "employee_base.cs",
-              "DocumentMoniker": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Domain\\Models\\BaseEntitiyModels\\employee_base.cs",
+              "DocumentMoniker": "D:\\project1CRM\\CRMPortal\\Domain\\Models\\BaseEntitiyModels\\employee_base.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\BaseEntitiyModels\\employee_base.cs",
-              "ToolTip": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Domain\\Models\\BaseEntitiyModels\\employee_base.cs",
+              "ToolTip": "D:\\project1CRM\\CRMPortal\\Domain\\Models\\BaseEntitiyModels\\employee_base.cs",
               "RelativeToolTip": "Domain\\Models\\BaseEntitiyModels\\employee_base.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -301,9 +290,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "employe_entity.cs",
-              "DocumentMoniker": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Domain\\Models\\Entities\\employe_entity.cs",
+              "DocumentMoniker": "D:\\project1CRM\\CRMPortal\\Domain\\Models\\Entities\\employe_entity.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Entities\\employe_entity.cs",
-              "ToolTip": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Domain\\Models\\Entities\\employe_entity.cs",
+              "ToolTip": "D:\\project1CRM\\CRMPortal\\Domain\\Models\\Entities\\employe_entity.cs",
               "RelativeToolTip": "Domain\\Models\\Entities\\employe_entity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -313,9 +302,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Responses.cs",
-              "DocumentMoniker": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Common\\Constants\\Responses.cs",
+              "DocumentMoniker": "D:\\project1CRM\\CRMPortal\\Common\\Constants\\Responses.cs",
               "RelativeDocumentMoniker": "Common\\Constants\\Responses.cs",
-              "ToolTip": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Common\\Constants\\Responses.cs",
+              "ToolTip": "D:\\project1CRM\\CRMPortal\\Common\\Constants\\Responses.cs",
               "RelativeToolTip": "Common\\Constants\\Responses.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

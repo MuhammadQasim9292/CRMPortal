@@ -324,11 +324,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Domain\\Domain.csproj",
+      "projectUniqueName": "D:\\project1CRM\\CRMPortal\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Domain\\Domain.csproj",
+      "projectPath": "D:\\project1CRM\\CRMPortal\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Winnie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Domain\\obj\\",
+      "outputPath": "D:\\project1CRM\\CRMPortal\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Winnie\\AppData\\Roaming\\NuGet\\NuGet.Config",

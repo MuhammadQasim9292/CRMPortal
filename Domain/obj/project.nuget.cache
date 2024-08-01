@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GlTMHOY2bkg=",
+  "dgSpecHash": "1PoFh9C+hwo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\project1CRM\\CRMPortal\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Winnie\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.7\\microsoft.aspnetcore.authentication.jwtbearer.8.0.7.nupkg.sha512",
     "C:\\Users\\Winnie\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.1.2\\microsoft.identitymodel.abstractions.7.1.2.nupkg.sha512",

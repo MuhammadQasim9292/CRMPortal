@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Infrastructure\\Infrastructure.csproj": {}
+    "D:\\project1CRM\\CRMPortal\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Application\\Application.csproj": {
+    "D:\\project1CRM\\CRMPortal\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\project1CRM\\CRMPortal\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Application\\Application.csproj",
+        "projectPath": "D:\\project1CRM\\CRMPortal\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Winnie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Application\\obj\\",
+        "outputPath": "D:\\project1CRM\\CRMPortal\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Winnie\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,11 +29,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Common\\Common.csproj"
+              "D:\\project1CRM\\CRMPortal\\Common\\Common.csproj": {
+                "projectPath": "D:\\project1CRM\\CRMPortal\\Common\\Common.csproj"
               },
-              "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Domain\\Domain.csproj"
+              "D:\\project1CRM\\CRMPortal\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\project1CRM\\CRMPortal\\Domain\\Domain.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Common\\Common.csproj": {
+    "D:\\project1CRM\\CRMPortal\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\project1CRM\\CRMPortal\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Common\\Common.csproj",
+        "projectPath": "D:\\project1CRM\\CRMPortal\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\Winnie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Common\\obj\\",
+        "outputPath": "D:\\project1CRM\\CRMPortal\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Winnie\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -165,14 +165,14 @@
         }
       }
     },
-    "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Domain\\Domain.csproj": {
+    "D:\\project1CRM\\CRMPortal\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\project1CRM\\CRMPortal\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Domain\\Domain.csproj",
+        "projectPath": "D:\\project1CRM\\CRMPortal\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Winnie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Domain\\obj\\",
+        "outputPath": "D:\\project1CRM\\CRMPortal\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Winnie\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -232,14 +232,14 @@
         }
       }
     },
-    "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\project1CRM\\CRMPortal\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\project1CRM\\CRMPortal\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "D:\\project1CRM\\CRMPortal\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Winnie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Infrastructure\\obj\\",
+        "outputPath": "D:\\project1CRM\\CRMPortal\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Winnie\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -257,14 +257,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Application\\Application.csproj"
+              "D:\\project1CRM\\CRMPortal\\Application\\Application.csproj": {
+                "projectPath": "D:\\project1CRM\\CRMPortal\\Application\\Application.csproj"
               },
-              "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Common\\Common.csproj"
+              "D:\\project1CRM\\CRMPortal\\Common\\Common.csproj": {
+                "projectPath": "D:\\project1CRM\\CRMPortal\\Common\\Common.csproj"
               },
-              "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Winnie\\Downloads\\project (1)\\project\\C#\\git\\CRMPortal\\Domain\\Domain.csproj"
+              "D:\\project1CRM\\CRMPortal\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\project1CRM\\CRMPortal\\Domain\\Domain.csproj"
               }
             }
           }
