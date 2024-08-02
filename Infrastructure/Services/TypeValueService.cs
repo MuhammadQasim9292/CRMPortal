@@ -19,10 +19,10 @@ namespace Infrastructure.Services
 {
     public class TypeValueService<T> : ITypeValue
     {
-        private readonly Database_context _context;
+        private readonly Database_Context _context;
  
        
-        public TypeValueService(Database_context db)
+        public TypeValueService(Database_Context db)
         {
            _context = db;
         }

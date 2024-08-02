@@ -2959,6 +2959,7 @@
       "path": "runtime.native.system/4.0.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -4853,6 +4854,7 @@
       "path": "system.runtime.interopservices.runtimeinformation/4.0.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5657,11 +5659,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WordSenseIntern\\Git_Merge\\CRMPortal\\Application\\Application.csproj",
+      "projectUniqueName": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "D:\\WordSenseIntern\\Git_Merge\\CRMPortal\\Application\\Application.csproj",
+      "projectPath": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\WordSenseIntern\\Git_Merge\\CRMPortal\\Application\\obj\\",
+      "outputPath": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5679,11 +5681,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\WordSenseIntern\\Git_Merge\\CRMPortal\\Common\\Common.csproj": {
-              "projectPath": "D:\\WordSenseIntern\\Git_Merge\\CRMPortal\\Common\\Common.csproj"
+            "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Common\\Common.csproj": {
+              "projectPath": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Common\\Common.csproj"
             },
-            "D:\\WordSenseIntern\\Git_Merge\\CRMPortal\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\WordSenseIntern\\Git_Merge\\CRMPortal\\Domain\\Domain.csproj"
+            "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Domain\\Domain.csproj"
             }
           }
         }

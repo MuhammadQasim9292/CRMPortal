@@ -28,8 +28,8 @@ namespace Infrastructure.Services
     public class UserService : IUser
     { 
         private readonly IConfiguration _configuration;
-        private readonly Database_context _context;
-        public UserService(IConfiguration configuration, Database_context context)
+        private readonly Database_Context _context;
+        public UserService(IConfiguration configuration, Database_Context context)
         {
             _configuration = configuration;
             _context = context;

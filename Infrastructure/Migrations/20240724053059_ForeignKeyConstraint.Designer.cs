@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace Infrastructure.Migrations
 {
-    [DbContext(typeof(Database_context))]
+    [DbContext(typeof(Database_Context))]
     [Migration("20240724053059_ForeignKeyConstraint")]
     partial class ForeignKeyConstraint
     {

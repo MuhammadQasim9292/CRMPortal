@@ -21,8 +21,8 @@ namespace Infrastructure.Services
 {
     public class GenericService<T> : IGeneric<T> where T : class
     {
-        protected readonly Database_context _context;
-        public GenericService(Database_context context)
+        protected readonly Database_Context _context;
+        public GenericService(Database_Context context)
         {
             _context = context;
         }

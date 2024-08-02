@@ -21,10 +21,10 @@ namespace Infrastructure.Services
 {
     public class RoleService:IRole
     {
-        private readonly Database_context _context;
+        private readonly Database_Context _context;
         private IGeneric<Role> _roleRepository;
 
-        public RoleService(Database_context context)
+        public RoleService(Database_Context context)
         {
             _context=context;
             _roleRepository = new GenericService<Role>(_context);

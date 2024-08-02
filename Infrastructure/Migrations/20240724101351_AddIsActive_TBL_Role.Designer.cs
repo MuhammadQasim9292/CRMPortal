@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace Infrastructure.Migrations
 {
-    [DbContext(typeof(Database_context))]
+    [DbContext(typeof(Database_Context))]
     [Migration("20240724101351_AddIsActive_TBL_Role")]
     partial class AddIsActive_TBL_Role
     {

@@ -4912,11 +4912,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WordSenseIntern\\Git_Merge\\CRMPortal\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
+      "projectUniqueName": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
       "projectName": "Jwt_With_CleanArchitecture",
-      "projectPath": "D:\\WordSenseIntern\\Git_Merge\\CRMPortal\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
+      "projectPath": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\WordSenseIntern\\Git_Merge\\CRMPortal\\Jwt_With_CleanArchitecture\\obj\\",
+      "outputPath": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Jwt_With_CleanArchitecture\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4934,17 +4934,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\WordSenseIntern\\Git_Merge\\CRMPortal\\Application\\Application.csproj": {
-              "projectPath": "D:\\WordSenseIntern\\Git_Merge\\CRMPortal\\Application\\Application.csproj"
+            "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Application\\Application.csproj": {
+              "projectPath": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Application\\Application.csproj"
             },
-            "D:\\WordSenseIntern\\Git_Merge\\CRMPortal\\Common\\Common.csproj": {
-              "projectPath": "D:\\WordSenseIntern\\Git_Merge\\CRMPortal\\Common\\Common.csproj"
+            "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Common\\Common.csproj": {
+              "projectPath": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Common\\Common.csproj"
             },
-            "D:\\WordSenseIntern\\Git_Merge\\CRMPortal\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\WordSenseIntern\\Git_Merge\\CRMPortal\\Domain\\Domain.csproj"
+            "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Domain\\Domain.csproj"
             },
-            "D:\\WordSenseIntern\\Git_Merge\\CRMPortal\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\WordSenseIntern\\Git_Merge\\CRMPortal\\Infrastructure\\Infrastructure.csproj"
+            "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

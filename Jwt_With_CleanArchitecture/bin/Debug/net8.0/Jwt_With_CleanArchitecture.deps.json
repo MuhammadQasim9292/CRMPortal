@@ -811,14 +811,6 @@
           }
         }
       },
-      "Newtonsoft.Json/6.0.8": {
-        "runtime": {
-          "lib/net45/Newtonsoft.Json.dll": {
-            "assemblyVersion": "6.0.0.0",
-            "fileVersion": "6.0.8.18111"
-          }
-        }
-      },
       "Swashbuckle.AspNetCore/6.4.0": {
         "dependencies": {
           "Microsoft.Extensions.ApiDescription.Server": "6.0.5",
@@ -1073,8 +1065,7 @@
           "Domain": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.7",
           "Microsoft.EntityFrameworkCore": "8.0.7",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.7",
-          "Newtonsoft.Json": "6.0.8"
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.7"
         },
         "runtime": {
           "Infrastructure.dll": {}
@@ -1556,13 +1547,6 @@
       "sha512": "sha512-KZYeKBET/2Z0gY1WlTAK7+RHTl7GSbtvTLDXEZZojUdAPqpQNDL6tHv7VUpqfX5VEOh+uRGKaZXkuD253nEOBQ==",
       "path": "mono.texttemplating/2.2.1",
       "hashPath": "mono.texttemplating.2.2.1.nupkg.sha512"
-    },
-    "Newtonsoft.Json/6.0.8": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-7ut47NDedTW19EbL0JpFDYUP62fcuz27hJrehCDNajdCS5NtqL+E39+7Um3OkNc2wl2ym7K8Ln5eNuLus6mVGQ==",
-      "path": "newtonsoft.json/6.0.8",
-      "hashPath": "newtonsoft.json.6.0.8.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore/6.4.0": {
       "type": "package",

@@ -21,8 +21,8 @@ namespace Infrastructure.Services
 {
     public class TypeService : IType
     {
-        private readonly Database_context _context;
-        public TypeService(Database_context db)
+        private readonly Database_Context _context;
+        public TypeService(Database_Context db)
         {
 
             _context = db;

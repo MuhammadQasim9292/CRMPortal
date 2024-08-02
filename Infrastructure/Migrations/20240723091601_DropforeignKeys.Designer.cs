@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace Infrastructure.Migrations
 {
-    [DbContext(typeof(Database_context))]
+    [DbContext(typeof(Database_Context))]
     [Migration("20240723091601_DropforeignKeys")]
     partial class DropforeignKeys
     {
@@ -39,6 +39,7 @@ namespace Infrastructure.Migrations
 
                     b.Property<DateTime>("AddedDate")
                         .HasColumnType("datetime2");
+
 
                     b.Property<bool>("IsDeleted")
                         .HasColumnType("bit");
@@ -76,7 +77,6 @@ namespace Infrastructure.Migrations
 
                     b.Property<DateTime>("AddedDate")
                         .HasColumnType("datetime2");
-
                     b.Property<bool>("IsDeleted")
                         .HasColumnType("bit");
 

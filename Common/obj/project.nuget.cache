@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X0MuPlv8Xk4=",
+  "dgSpecHash": "X6W0AnJqTUU=",
   "success": true,
-  "projectFilePath": "D:\\WordSenseIntern\\Git_Merge\\CRMPortal\\Common\\Common.csproj",
+  "projectFilePath": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Common\\Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",

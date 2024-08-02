@@ -1,65 +1,13 @@
-H:\New folder\Project\bookstore\Domain\bin\Debug\net8.0\Domain.deps.json
-H:\New folder\Project\bookstore\Domain\bin\Debug\net8.0\Domain.dll
-H:\New folder\Project\bookstore\Domain\bin\Debug\net8.0\Domain.pdb
-H:\New folder\Project\bookstore\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
-H:\New folder\Project\bookstore\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
-H:\New folder\Project\bookstore\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
-H:\New folder\Project\bookstore\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
-H:\New folder\Project\bookstore\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
-H:\New folder\Project\bookstore\Domain\obj\Debug\net8.0\Domain.sourcelink.json
-H:\New folder\Project\bookstore\Domain\obj\Debug\net8.0\Domain.dll
-H:\New folder\Project\bookstore\Domain\obj\Debug\net8.0\refint\Domain.dll
-H:\New folder\Project\bookstore\Domain\obj\Debug\net8.0\Domain.pdb
-H:\New folder\Project\bookstore\Domain\obj\Debug\net8.0\ref\Domain.dll
-H:\New folder\bookstore-A_H\bookproject\Domain\bin\Debug\net8.0\Domain.deps.json
-H:\New folder\bookstore-A_H\bookproject\Domain\bin\Debug\net8.0\Domain.dll
-H:\New folder\bookstore-A_H\bookproject\Domain\bin\Debug\net8.0\Domain.pdb
-H:\New folder\bookstore-A_H\bookproject\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
-H:\New folder\bookstore-A_H\bookproject\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
-H:\New folder\bookstore-A_H\bookproject\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
-H:\New folder\bookstore-A_H\bookproject\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
-H:\New folder\bookstore-A_H\bookproject\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
-H:\New folder\bookstore-A_H\bookproject\Domain\obj\Debug\net8.0\Domain.sourcelink.json
-H:\New folder\bookstore-A_H\bookproject\Domain\obj\Debug\net8.0\Domain.dll
-H:\New folder\bookstore-A_H\bookproject\Domain\obj\Debug\net8.0\refint\Domain.dll
-H:\New folder\bookstore-A_H\bookproject\Domain\obj\Debug\net8.0\Domain.pdb
-H:\New folder\bookstore-A_H\bookproject\Domain\obj\Debug\net8.0\ref\Domain.dll
-D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
-D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
-D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
-D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
-D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
-D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Domain\obj\Debug\net8.0\Domain.sourcelink.json
-D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Domain\obj\Debug\net8.0\Domain.dll
-D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Domain\obj\Debug\net8.0\refint\Domain.dll
-D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Domain\obj\Debug\net8.0\Domain.pdb
-D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Domain\bin\Debug\net8.0\Domain.deps.json
-D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Domain\bin\Debug\net8.0\Domain.dll
-D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Domain\bin\Debug\net8.0\Domain.pdb
-D:\WordSenseIntern\Book_Project_JWTIMplementation\bookproject\Domain\obj\Debug\net8.0\ref\Domain.dll
-D:\WordSenseIntern\MedicalCRM_SirQasim\CRMPortal\Domain\bin\Debug\net8.0\Domain.deps.json
-D:\WordSenseIntern\MedicalCRM_SirQasim\CRMPortal\Domain\bin\Debug\net8.0\Domain.dll
-D:\WordSenseIntern\MedicalCRM_SirQasim\CRMPortal\Domain\bin\Debug\net8.0\Domain.pdb
-D:\WordSenseIntern\MedicalCRM_SirQasim\CRMPortal\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
-D:\WordSenseIntern\MedicalCRM_SirQasim\CRMPortal\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
-D:\WordSenseIntern\MedicalCRM_SirQasim\CRMPortal\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
-D:\WordSenseIntern\MedicalCRM_SirQasim\CRMPortal\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
-D:\WordSenseIntern\MedicalCRM_SirQasim\CRMPortal\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
-D:\WordSenseIntern\MedicalCRM_SirQasim\CRMPortal\Domain\obj\Debug\net8.0\Domain.sourcelink.json
-D:\WordSenseIntern\MedicalCRM_SirQasim\CRMPortal\Domain\obj\Debug\net8.0\Domain.dll
-D:\WordSenseIntern\MedicalCRM_SirQasim\CRMPortal\Domain\obj\Debug\net8.0\refint\Domain.dll
-D:\WordSenseIntern\MedicalCRM_SirQasim\CRMPortal\Domain\obj\Debug\net8.0\Domain.pdb
-D:\WordSenseIntern\MedicalCRM_SirQasim\CRMPortal\Domain\obj\Debug\net8.0\ref\Domain.dll
-D:\WordSenseIntern\SirQasimNEw\CRMPortal\Domain\bin\Debug\net8.0\Domain.deps.json
-D:\WordSenseIntern\SirQasimNEw\CRMPortal\Domain\bin\Debug\net8.0\Domain.dll
-D:\WordSenseIntern\SirQasimNEw\CRMPortal\Domain\bin\Debug\net8.0\Domain.pdb
-D:\WordSenseIntern\SirQasimNEw\CRMPortal\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
-D:\WordSenseIntern\SirQasimNEw\CRMPortal\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
-D:\WordSenseIntern\SirQasimNEw\CRMPortal\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
-D:\WordSenseIntern\SirQasimNEw\CRMPortal\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
-D:\WordSenseIntern\SirQasimNEw\CRMPortal\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
-D:\WordSenseIntern\SirQasimNEw\CRMPortal\Domain\obj\Debug\net8.0\Domain.sourcelink.json
-D:\WordSenseIntern\SirQasimNEw\CRMPortal\Domain\obj\Debug\net8.0\Domain.dll
-D:\WordSenseIntern\SirQasimNEw\CRMPortal\Domain\obj\Debug\net8.0\refint\Domain.dll
-D:\WordSenseIntern\SirQasimNEw\CRMPortal\Domain\obj\Debug\net8.0\Domain.pdb
-D:\WordSenseIntern\SirQasimNEw\CRMPortal\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\WordSenseIntern\GIT_Merge\CRMPortal\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\WordSenseIntern\GIT_Merge\CRMPortal\Domain\bin\Debug\net8.0\Domain.dll
+D:\WordSenseIntern\GIT_Merge\CRMPortal\Domain\bin\Debug\net8.0\Domain.pdb
+D:\WordSenseIntern\GIT_Merge\CRMPortal\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\WordSenseIntern\GIT_Merge\CRMPortal\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\WordSenseIntern\GIT_Merge\CRMPortal\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\WordSenseIntern\GIT_Merge\CRMPortal\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\WordSenseIntern\GIT_Merge\CRMPortal\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\WordSenseIntern\GIT_Merge\CRMPortal\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\WordSenseIntern\GIT_Merge\CRMPortal\Domain\obj\Debug\net8.0\Domain.dll
+D:\WordSenseIntern\GIT_Merge\CRMPortal\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\WordSenseIntern\GIT_Merge\CRMPortal\Domain\obj\Debug\net8.0\Domain.pdb
+D:\WordSenseIntern\GIT_Merge\CRMPortal\Domain\obj\Debug\net8.0\ref\Domain.dll
