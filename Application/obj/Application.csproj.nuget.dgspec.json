@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Application\\Application.csproj": {}
+    "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Application\\Application.csproj": {}
   },
   "projects": {
-    "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Application\\Application.csproj": {
+    "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\abc\\.nuget\\packages\\",
-        "outputPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Application\\obj\\",
+        "projectPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\abc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,11 +29,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Common\\Common.csproj": {
-                "projectPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Common\\Common.csproj"
+              "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Common\\Common.csproj": {
+                "projectPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Common\\Common.csproj"
               },
-              "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Domain\\Domain.csproj"
+              "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\Domain.csproj"
               }
             }
           }
@@ -102,17 +102,17 @@
         }
       }
     },
-    "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Common\\Common.csproj": {
+    "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Common\\Common.csproj",
-        "packagesPath": "C:\\Users\\abc\\.nuget\\packages\\",
-        "outputPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Common\\obj\\",
+        "projectPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\abc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -185,17 +185,17 @@
         }
       }
     },
-    "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Domain\\Domain.csproj": {
+    "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\abc\\.nuget\\packages\\",
-        "outputPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Domain\\obj\\",
+        "projectPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\abc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

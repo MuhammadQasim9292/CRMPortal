@@ -5648,19 +5648,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\abc\\.nuget\\packages\\": {}
+    "C:\\Users\\DELL\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
+      "projectUniqueName": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
       "projectName": "Jwt_With_CleanArchitecture",
-      "projectPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
-      "packagesPath": "C:\\Users\\abc\\.nuget\\packages\\",
-      "outputPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Jwt_With_CleanArchitecture\\obj\\",
+      "projectPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Jwt_With_CleanArchitecture\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\abc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5675,17 +5675,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Application\\Application.csproj": {
-              "projectPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Application\\Application.csproj"
+            "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Application\\Application.csproj": {
+              "projectPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Application\\Application.csproj"
             },
-            "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Common\\Common.csproj": {
-              "projectPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Common\\Common.csproj"
+            "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Common\\Common.csproj": {
+              "projectPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Common\\Common.csproj"
             },
-            "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Domain\\Domain.csproj"
+            "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\Domain.csproj"
             },
-            "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\internship\\vs\\NewCloneProject\\CRMPortal\\Infrastructure\\Infrastructure.csproj"
+            "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
