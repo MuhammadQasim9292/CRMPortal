@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Infrastructure\\Infrastructure.csproj": {}
+    "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Application\\Application.csproj": {
+    "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Application\\Application.csproj",
+        "projectPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Application\\obj\\",
+        "outputPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,11 +29,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Common\\Common.csproj": {
-                "projectPath": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Common\\Common.csproj"
+              "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Common\\Common.csproj": {
+                "projectPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Common\\Common.csproj"
               },
-              "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Domain\\Domain.csproj"
+              "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\Domain.csproj"
               }
             }
           }
@@ -52,16 +52,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
-              "target": "Package",
-              "version": "[8.0.7, )"
-            },
-            "Microsoft.AspNetCore.Mvc.Core": {
-              "target": "Package",
-              "version": "[2.2.5, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -82,14 +72,14 @@
         }
       }
     },
-    "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Common\\Common.csproj": {
+    "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Common\\Common.csproj",
+        "projectPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Common\\obj\\",
+        "outputPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -128,10 +118,6 @@
               "target": "Package",
               "version": "[2.1.35, )"
             },
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
-              "target": "Package",
-              "version": "[8.0.7, )"
-            },
             "Microsoft.Data.SqlClient": {
               "target": "Package",
               "version": "[5.2.1, )"
@@ -141,6 +127,10 @@
               "version": "[8.0.0, )"
             },
             "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
               "target": "Package",
               "version": "[8.0.0, )"
             }
@@ -165,14 +155,14 @@
         }
       }
     },
-    "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Domain\\Domain.csproj": {
+    "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Domain\\Domain.csproj",
+        "projectPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Domain\\obj\\",
+        "outputPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -206,12 +196,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
-              "target": "Package",
-              "version": "[8.0.7, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -232,14 +216,14 @@
         }
       }
     },
-    "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Infrastructure\\obj\\",
+        "outputPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -257,14 +241,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Application\\Application.csproj": {
-                "projectPath": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Application\\Application.csproj"
+              "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Application\\Application.csproj": {
+                "projectPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Application\\Application.csproj"
               },
-              "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Common\\Common.csproj": {
-                "projectPath": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Common\\Common.csproj"
+              "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Common\\Common.csproj": {
+                "projectPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Common\\Common.csproj"
               },
-              "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Domain\\Domain.csproj"
+              "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\Domain.csproj"
               }
             }
           }

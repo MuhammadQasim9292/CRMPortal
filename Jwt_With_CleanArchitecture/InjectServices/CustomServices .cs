@@ -19,7 +19,9 @@ namespace Jwt_With_CleanArchitecture.InjectServices
             services.AddScoped<IRole,RoleService>();
             services.AddScoped<ISearch, SearchService>();
             services.AddScoped<IEmployeeJobDescriptionService, EmployeeService> ();
-
+            services.AddScoped<ITemplateService, TemplateService>();
+            services.AddScoped<ILeaveBalanceService, LeaveBalanceService>();
+            services.AddScoped<IDistrictService, DistrictService>();
         }
     }
 }

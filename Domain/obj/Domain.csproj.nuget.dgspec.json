@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Domain\\Domain.csproj": {}
+    "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Domain\\Domain.csproj": {
+    "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Domain\\Domain.csproj",
+        "projectPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\WordSenseIntern\\GIT_Merge\\CRMPortal\\Domain\\obj\\",
+        "outputPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,12 +45,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
-              "target": "Package",
-              "version": "[8.0.7, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

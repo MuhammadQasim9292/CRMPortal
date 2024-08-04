@@ -1,4 +1,4 @@
-﻿using System.Net.Mail;
+using System.Net.Mail;
 using System.Data;
 using Microsoft.Data.SqlClient;
 using Dapper;
@@ -56,7 +56,7 @@ namespace Common.CommonMethods
         {
            using(IDbConnection db = new SqlConnection(connectionString) )
             {
-                string query = $"UPDATE {tableName} SET IsDeleted = 1 WHERE Id in (@Id)";
+                string query = $"UPDATE {tableName} SET IsDeleted = 1 WHERE Id = @Id";
                 var affectedrows = await db.ExecuteAsync(query,new {Id = id});
 
                return affectedrows > 0;
@@ -89,7 +89,6 @@ namespace Common.CommonMethods
                 {
                     return Enumerable.Empty<dynamic>();
                 }
-
                 return results;
             }
         }

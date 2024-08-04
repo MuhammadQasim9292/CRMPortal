@@ -17,5 +17,9 @@ namespace Infrastructure.Context
         public DbSet<TypeValue> TypeValueNew { get; set; }
         public DbSet<User> Users { get; set; }
         public DbSet<Role> Role { get; set; }
+        public DbSet<Template> Templates { get; set; }
+        public DbSet<District> Districts { get; set; }
+        public DbSet<LeaveBalance> LeaveBalances { get; set; }
+
     }
 }
