@@ -5657,11 +5657,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\project1CRM\\CRMPortal\\Application\\Application.csproj",
+      "projectUniqueName": "D:\\project1CRM\\merging\\CRMPortal\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "D:\\project1CRM\\CRMPortal\\Application\\Application.csproj",
+      "projectPath": "D:\\project1CRM\\merging\\CRMPortal\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Winnie\\.nuget\\packages\\",
-      "outputPath": "D:\\project1CRM\\CRMPortal\\Application\\obj\\",
+      "outputPath": "D:\\project1CRM\\merging\\CRMPortal\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Winnie\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5679,11 +5679,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\project1CRM\\CRMPortal\\Common\\Common.csproj": {
-              "projectPath": "D:\\project1CRM\\CRMPortal\\Common\\Common.csproj"
+            "D:\\project1CRM\\merging\\CRMPortal\\Common\\Common.csproj": {
+              "projectPath": "D:\\project1CRM\\merging\\CRMPortal\\Common\\Common.csproj"
             },
-            "D:\\project1CRM\\CRMPortal\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\project1CRM\\CRMPortal\\Domain\\Domain.csproj"
+            "D:\\project1CRM\\merging\\CRMPortal\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\project1CRM\\merging\\CRMPortal\\Domain\\Domain.csproj"
             }
           }
         }

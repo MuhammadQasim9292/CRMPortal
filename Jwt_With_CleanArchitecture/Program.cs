@@ -25,19 +25,12 @@ internal class Program
         builder.Services.AddDbContext<EmployeeContext>(options =>
             options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-        // Register additional DbContext if needed
-        // Example: builder.Services.AddDbContext<AnotherContext>(options =>
-        //     options.UseSqlServer(builder.Configuration.GetConnectionString("AnotherConnection")));
-
-        // Register services
+        
         builder.Services.AddScoped<IEmployeeJobDescriptionService, EmployeeService>();
 
         // Register custom services
         builder.Services.AddCustomServices();
-        // builder.Services.AddDistrictServices();
-        // builder.Services.AddLeaveBalanceServices(); // Add this line to register your services
-
-        // Configure authentication
+       
         builder.Services.AddAuthentication(options =>
         {
             options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
