@@ -13,9 +13,9 @@ namespace Infrastructure.Services
 {
     public class EmployeeService : IEmployeeJobDescriptionService
     {
-        private readonly EmployeeContext _context;
+        private readonly Database_Context _context;
 
-        public EmployeeService(EmployeeContext context)
+        public EmployeeService(Database_Context context)
         {
             _context = context;
         }

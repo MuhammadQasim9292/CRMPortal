@@ -3,8 +3,7 @@
   "WorkspaceRootPath": "D:\\project1CRM\\merging\\CRMPortal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\project1crm\\merging\\crmportal\\jwt_with_cleanarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Winnie\\AppData\\Local\\SourceServer\\99255c125ce76fdaa8dfdfdef5e6673904e39580f9e0f5574fdca26a8ab02d0a\\Jwt_With_CleanArchitecture\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -14,24 +13,16 @@
       "RelativeMoniker": "D:0:0:{7500E882-6549-421A-9F65-85478F745639}|Common\\Common.csproj|solutionrelative:common\\commonmethods\\commonopertions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\project1crm\\merging\\crmportal\\jwt_with_cleanarchitecture\\controllers\\employeecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\controllers\\employeecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\project1crm\\merging\\crmportal\\infrastructure\\services\\employee_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\employee_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\project1crm\\merging\\crmportal\\infrastructure\\migrations\\20240726183919_init22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20240726183919_init22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\project1crm\\merging\\crmportal\\jwt_with_cleanarchitecture\\injectservices\\customservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\injectservices\\customservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\project1crm\\merging\\crmportal\\infrastructure\\context\\db_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context\\db_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\project1crm\\merging\\crmportal\\jwt_with_cleanarchitecture\\controllers\\employeecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\controllers\\employeecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|d:\\project1crm\\merging\\crmportal\\application\\interfaces\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,16 +52,24 @@
       "RelativeMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|solutionrelative:application\\dtms\\responses\\departmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|d:\\project1crm\\merging\\crmportal\\domain\\models\\baseentitiymodels\\employee_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|solutionrelative:domain\\models\\baseentitiymodels\\employee_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|d:\\project1crm\\merging\\crmportal\\domain\\models\\entities\\employe_entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|solutionrelative:domain\\models\\entities\\employe_entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7500E882-6549-421A-9F65-85478F745639}|Common\\Common.csproj|d:\\project1crm\\merging\\crmportal\\common\\constants\\responses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7500E882-6549-421A-9F65-85478F745639}|Common\\Common.csproj|solutionrelative:common\\constants\\responses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\project1CRM\\merging\\CRMPortal\\Infrastructure\\Migrations\\20240726183919_init22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20240726183919_init22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\project1CRM\\merging\\CRMPortal\\Infrastructure\\Context\\db_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Context\\db_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\project1CRM\\merging\\CRMPortal\\Domain\\Models\\BaseEntitiyModels\\employee_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Models\\BaseEntitiyModels\\employee_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -80,7 +79,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -88,11 +87,18 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAG8WAAAAAAAAAAAnwIEWAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-04T20:51:03.854Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -100,38 +106,44 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Winnie\\AppData\\Local\\SourceServer\\99255c125ce76fdaa8dfdfdef5e6673904e39580f9e0f5574fdca26a8ab02d0a\\Jwt_With_CleanArchitecture\\Program.cs",
               "ToolTip": "C:\\Users\\Winnie\\AppData\\Local\\SourceServer\\99255c125ce76fdaa8dfdfdef5e6673904e39580f9e0f5574fdca26a8ab02d0a\\Jwt_With_CleanArchitecture\\Program.cs",
-              "ViewState": "AQIAAFIAAAAAAAAAAAAgwFoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T18:31:28.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\project1CRM\\merging\\CRMPortal\\Jwt_With_CleanArchitecture\\Program.cs",
-              "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\Program.cs",
-              "ToolTip": "D:\\project1CRM\\merging\\CRMPortal\\Jwt_With_CleanArchitecture\\Program.cs",
-              "RelativeToolTip": "Jwt_With_CleanArchitecture\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T16:50:02.128Z",
+              "WhenOpened": "2024-07-26T18:31:28.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "employeecontroller .cs",
               "DocumentMoniker": "D:\\project1CRM\\merging\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\employeecontroller .cs",
               "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\Controllers\\employeecontroller .cs",
               "ToolTip": "D:\\project1CRM\\merging\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\employeecontroller .cs",
               "RelativeToolTip": "Jwt_With_CleanArchitecture\\Controllers\\employeecontroller .cs",
-              "ViewState": "AQIAACoAAAAAAAAAAADwv0EAAAAkAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAswEEAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T07:54:42.132Z"
+              "WhenOpened": "2024-07-24T07:54:42.132Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "CommonOpertions.cs",
+              "DocumentMoniker": "D:\\project1CRM\\merging\\CRMPortal\\Common\\CommonMethods\\CommonOpertions.cs",
+              "RelativeDocumentMoniker": "Common\\CommonMethods\\CommonOpertions.cs",
+              "ToolTip": "D:\\project1CRM\\merging\\CRMPortal\\Common\\CommonMethods\\CommonOpertions.cs",
+              "RelativeToolTip": "Common\\CommonMethods\\CommonOpertions.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAawDEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T09:58:37.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "employee_Service.cs",
               "DocumentMoniker": "D:\\project1CRM\\merging\\CRMPortal\\Infrastructure\\Services\\employee_Service.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\employee_Service.cs",
@@ -143,19 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CommonOpertions.cs",
-              "DocumentMoniker": "D:\\project1CRM\\merging\\CRMPortal\\Common\\CommonMethods\\CommonOpertions.cs",
-              "RelativeDocumentMoniker": "Common\\CommonMethods\\CommonOpertions.cs",
-              "ToolTip": "D:\\project1CRM\\merging\\CRMPortal\\Common\\CommonMethods\\CommonOpertions.cs",
-              "RelativeToolTip": "Common\\CommonMethods\\CommonOpertions.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAawDAAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T09:58:37.454Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "20240726183919_init22.cs",
               "DocumentMoniker": "D:\\project1CRM\\merging\\CRMPortal\\Infrastructure\\Migrations\\20240726183919_init22.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240726183919_init22.cs",
@@ -163,11 +163,11 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240726183919_init22.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T18:39:19.484Z"
+              "WhenOpened": "2024-08-04T18:40:31.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "employee.cs",
               "DocumentMoniker": "D:\\project1CRM\\merging\\CRMPortal\\Application\\Interfaces\\employee.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\employee.cs",
@@ -179,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "db_context.cs",
               "DocumentMoniker": "D:\\project1CRM\\merging\\CRMPortal\\Infrastructure\\Context\\db_context.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Context\\db_context.cs",
@@ -187,7 +187,7 @@
               "RelativeToolTip": "Infrastructure\\Context\\db_context.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T16:49:17.149Z"
+              "WhenOpened": "2024-08-04T18:40:31.871Z"
             },
             {
               "$type": "Document",
@@ -203,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\project1CRM\\merging\\CRMPortal\\Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
@@ -215,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\project1CRM\\merging\\CRMPortal\\Jwt_With_CleanArchitecture\\appsettings.json",
               "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\appsettings.json",
@@ -227,18 +227,17 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Winnie\\AppData\\Local\\SourceServer\\f9976d39bf3a4804adcdec74df0bf709184ef9462a7af10656ccafe4a3251fa7\\Jwt_With_CleanArchitecture\\Program.cs",
-              "ToolTip": "C:\\Users\\Winnie\\AppData\\Local\\SourceServer\\f9976d39bf3a4804adcdec74df0bf709184ef9462a7af10656ccafe4a3251fa7\\Jwt_With_CleanArchitecture\\Program.cs [Read Only]",
+              "ToolTip": "C:\\Users\\Winnie\\AppData\\Local\\SourceServer\\f9976d39bf3a4804adcdec74df0bf709184ef9462a7af10656ccafe4a3251fa7\\Jwt_With_CleanArchitecture\\Program.cs",
               "ViewState": "AQIAAD0AAAAAAAAAAAAgwEgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T08:12:28.754Z",
-              "EditorCaption": " [Read Only]"
+              "WhenOpened": "2024-07-25T08:12:28.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "token.cs",
               "DocumentMoniker": "D:\\project1CRM\\merging\\CRMPortal\\Application\\DTMs\\token\\token.cs",
               "RelativeDocumentMoniker": "Application\\DTMs\\token\\token.cs",
@@ -250,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "employeeDTM.cs",
               "DocumentMoniker": "D:\\project1CRM\\merging\\CRMPortal\\Application\\DTMs\\dtm\\employeeDTM.cs",
               "RelativeDocumentMoniker": "Application\\DTMs\\dtm\\employeeDTM.cs",
@@ -262,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "departmentVm.cs",
               "DocumentMoniker": "D:\\project1CRM\\merging\\CRMPortal\\Application\\DTMs\\Responses\\departmentVm.cs",
               "RelativeDocumentMoniker": "Application\\DTMs\\Responses\\departmentVm.cs",
@@ -274,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "employee_base.cs",
               "DocumentMoniker": "D:\\project1CRM\\merging\\CRMPortal\\Domain\\Models\\BaseEntitiyModels\\employee_base.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\BaseEntitiyModels\\employee_base.cs",
@@ -282,11 +281,11 @@
               "RelativeToolTip": "Domain\\Models\\BaseEntitiyModels\\employee_base.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T06:39:39.434Z"
+              "WhenOpened": "2024-08-04T18:40:31.905Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 13,
               "Title": "employe_entity.cs",
               "DocumentMoniker": "D:\\project1CRM\\merging\\CRMPortal\\Domain\\Models\\Entities\\employe_entity.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Entities\\employe_entity.cs",
@@ -298,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 14,
               "Title": "Responses.cs",
               "DocumentMoniker": "D:\\project1CRM\\merging\\CRMPortal\\Common\\Constants\\Responses.cs",
               "RelativeDocumentMoniker": "Common\\Constants\\Responses.cs",

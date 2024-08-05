@@ -1,6 +1,12 @@
-﻿using Application.Interfaces;
+
+﻿// CustomServices.cs
+using Application;
+using Application.Interfaces;
+using Domain.Models.Entities;
+using Infrastructure;
 using Infrastructure.Services;
 using Microsoft.Extensions.DependencyInjection;
+
 
 namespace Jwt_With_CleanArchitecture.InjectServices
 {
@@ -8,12 +14,10 @@ namespace Jwt_With_CleanArchitecture.InjectServices
     {
         public static void AddCustomServices(this IServiceCollection services)
         {
-            // Register DepartmentService
-           // services.AddScoped<IDepartmentService, DepartmentService>();
-
-            // Register EmployeeService
-            //services.AddScoped<IEmployeeService, EmployeeService>();
-           // services.AddScoped<IEmployeeJobDescriptionService, EmployeeService>();
+            services.AddScoped<IType, TypeService>();
+            services.AddScoped<IUser,UserService>();
+            services.AddScoped<IRole,RoleService>();
+            services.AddScoped<ISearch, SearchService>();
             services.AddScoped<IEmployeeJobDescriptionService, EmployeeService> ();
 
         }
