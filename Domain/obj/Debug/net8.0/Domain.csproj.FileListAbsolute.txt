@@ -76,3 +76,16 @@ D:\internship\vs\NewCloneProject\CRMPortal\Domain\obj\Debug\net8.0\Domain.dll
 D:\internship\vs\NewCloneProject\CRMPortal\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\internship\vs\NewCloneProject\CRMPortal\Domain\obj\Debug\net8.0\Domain.pdb
 D:\internship\vs\NewCloneProject\CRMPortal\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\crud\CrmPullByHania\muskan\CRMPortal\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\crud\CrmPullByHania\muskan\CRMPortal\Domain\bin\Debug\net8.0\Domain.dll
+D:\crud\CrmPullByHania\muskan\CRMPortal\Domain\bin\Debug\net8.0\Domain.pdb
+D:\crud\CrmPullByHania\muskan\CRMPortal\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\crud\CrmPullByHania\muskan\CRMPortal\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\crud\CrmPullByHania\muskan\CRMPortal\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\crud\CrmPullByHania\muskan\CRMPortal\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\crud\CrmPullByHania\muskan\CRMPortal\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\crud\CrmPullByHania\muskan\CRMPortal\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\crud\CrmPullByHania\muskan\CRMPortal\Domain\obj\Debug\net8.0\Domain.dll
+D:\crud\CrmPullByHania\muskan\CRMPortal\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\crud\CrmPullByHania\muskan\CRMPortal\Domain\obj\Debug\net8.0\Domain.pdb
+D:\crud\CrmPullByHania\muskan\CRMPortal\Domain\obj\Debug\net8.0\ref\Domain.dll

@@ -1,121 +1,133 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\",
+  "WorkspaceRootPath": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\wordsenseintern\\khansacode\\crmportal\\infrastructure\\migrations\\20240724075102_init6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20240724075102_init6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|d:\\crud\\crmpullbyhania\\muskan\\crmportal\\domain\\models\\baseentitiymodels\\district_baseentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|solutionrelative:domain\\models\\baseentitiymodels\\district_baseentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\wordsenseintern\\khansacode\\crmportal\\infrastructure\\migrations\\20240725062142_init67.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20240725062142_init67.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|d:\\wordsenseintern\\khansacode\\crmportal\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\wordsenseintern\\khansacode\\crmportal\\infrastructure\\context\\templatescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context\\templatescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|d:\\wordsenseintern\\khansacode\\crmportal\\domain\\models\\entities\\leavebalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|solutionrelative:domain\\models\\entities\\leavebalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\wordsenseintern\\khansacode\\crmportal\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\wordsenseintern\\khansacode\\crmportal\\infrastructure\\migrations\\20240724124426_init12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20240724124426_init12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\obj\\project.nuget.cache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\obj\\project.nuget.cache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\obj\\Infrastructure.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\obj\\Infrastructure.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\obj\\Infrastructure.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\obj\\Infrastructure.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\obj\\Infrastructure.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\obj\\Infrastructure.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\wordsenseintern\\khansacode\\crmportal\\infrastructure\\migrations\\20240724071020_shift4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20240724071020_shift4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|d:\\wordsenseintern\\khansacode\\crmportal\\domain\\models\\entities\\district.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|solutionrelative:domain\\models\\entities\\district.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\wordsenseintern\\khansacode\\crmportal\\infrastructure\\services\\leavebalanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\leavebalanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\wordsenseintern\\khansacode\\crmportal\\jwt_with_cleanarchitecture\\injectservices\\leavebalancecustomservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\injectservices\\leavebalancecustomservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\wordsenseintern\\khansacode\\crmportal\\infrastructure\\services\\districtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\districtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\wordsenseintern\\khansacode\\crmportal\\jwt_with_cleanarchitecture\\controllers\\districtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\controllers\\districtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|d:\\wordsenseintern\\khansacode\\crmportal\\application\\interfaces\\idistrictservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|solutionrelative:application\\interfaces\\idistrictservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\wordsenseintern\\khansacode\\crmportal\\jwt_with_cleanarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\wordsenseintern\\khansacode\\crmportal\\jwt_with_cleanarchitecture\\injectservices\\districtcustomservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\injectservices\\districtcustomservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\wordsenseintern\\khansacode\\crmportal\\jwt_with_cleanarchitecture\\injectservices\\customservices .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\injectservices\\customservices .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\wordsenseintern\\khansacode\\crmportal\\jwt_with_cleanarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|d:\\wordsenseintern\\khansacode\\crmportal\\domain\\models\\baseentitiymodels\\baseentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|solutionrelative:domain\\models\\baseentitiymodels\\baseentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|d:\\wordsenseintern\\khansacode\\crmportal\\domain\\models\\baseentitiymodels\\base-entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|d:\\crud\\crmpullbyhania\\muskan\\crmportal\\domain\\models\\baseentitiymodels\\base-entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|solutionrelative:domain\\models\\baseentitiymodels\\base-entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|d:\\wordsenseintern\\khansacode\\crmportal\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|d:\\crud\\crmpullbyhania\\muskan\\crmportal\\domain\\models\\baseentitiymodels\\baseentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|solutionrelative:domain\\models\\baseentitiymodels\\baseentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|d:\\crud\\crmpullbyhania\\muskan\\crmportal\\domain\\models\\entities\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|solutionrelative:domain\\models\\entities\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\crud\\crmpullbyhania\\muskan\\crmportal\\infrastructure\\services\\templateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\templateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\crud\\crmpullbyhania\\muskan\\crmportal\\infrastructure\\migrations\\20240724075102_init6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20240724075102_init6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\crud\\crmpullbyhania\\muskan\\crmportal\\infrastructure\\migrations\\20240725062142_init67.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20240725062142_init67.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|d:\\crud\\crmpullbyhania\\muskan\\crmportal\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\crud\\crmpullbyhania\\muskan\\crmportal\\infrastructure\\context\\templatescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context\\templatescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|d:\\crud\\crmpullbyhania\\muskan\\crmportal\\domain\\models\\entities\\leavebalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|solutionrelative:domain\\models\\entities\\leavebalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\crud\\crmpullbyhania\\muskan\\crmportal\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\crud\\crmpullbyhania\\muskan\\crmportal\\infrastructure\\migrations\\20240724124426_init12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20240724124426_init12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\obj\\project.nuget.cache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\obj\\project.nuget.cache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\obj\\Infrastructure.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\obj\\Infrastructure.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\obj\\Infrastructure.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\obj\\Infrastructure.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\obj\\Infrastructure.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\obj\\Infrastructure.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\crud\\crmpullbyhania\\muskan\\crmportal\\infrastructure\\migrations\\20240724071020_shift4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20240724071020_shift4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|d:\\crud\\crmpullbyhania\\muskan\\crmportal\\domain\\models\\entities\\district.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|solutionrelative:domain\\models\\entities\\district.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\crud\\crmpullbyhania\\muskan\\crmportal\\infrastructure\\services\\leavebalanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\leavebalanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\crud\\crmpullbyhania\\muskan\\crmportal\\jwt_with_cleanarchitecture\\injectservices\\leavebalancecustomservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\injectservices\\leavebalancecustomservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\crud\\crmpullbyhania\\muskan\\crmportal\\infrastructure\\services\\districtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\districtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\crud\\crmpullbyhania\\muskan\\crmportal\\jwt_with_cleanarchitecture\\controllers\\districtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\controllers\\districtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|d:\\crud\\crmpullbyhania\\muskan\\crmportal\\application\\interfaces\\idistrictservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|solutionrelative:application\\interfaces\\idistrictservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\crud\\crmpullbyhania\\muskan\\crmportal\\jwt_with_cleanarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\crud\\crmpullbyhania\\muskan\\crmportal\\jwt_with_cleanarchitecture\\injectservices\\districtcustomservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\injectservices\\districtcustomservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\crud\\crmpullbyhania\\muskan\\crmportal\\jwt_with_cleanarchitecture\\injectservices\\customservices .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\injectservices\\customservices .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|d:\\crud\\crmpullbyhania\\muskan\\crmportal\\jwt_with_cleanarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C7DF8AA-1DB4-47D5-8485-E356C1972A53}|Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj|solutionrelative:jwt_with_cleanarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|d:\\crud\\crmpullbyhania\\muskan\\crmportal\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{82978322-04FF-4AE1-BA5D-96F09F1A52DE}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|d:\\wordsenseintern\\khansacode\\crmportal\\application\\dtms\\responses\\responsevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|d:\\crud\\crmpullbyhania\\muskan\\crmportal\\application\\dtms\\responses\\responsevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA1B9DEC-8727-4687-A77F-5A058C3D5FA6}|Application\\Application.csproj|solutionrelative:application\\dtms\\responses\\responsevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7500E882-6549-421A-9F65-85478F745639}|Common\\Common.csproj|d:\\wordsenseintern\\khansacode\\crmportal\\common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{7500E882-6549-421A-9F65-85478F745639}|Common\\Common.csproj|d:\\crud\\crmpullbyhania\\muskan\\crmportal\\common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7500E882-6549-421A-9F65-85478F745639}|Common\\Common.csproj|solutionrelative:common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\wordsenseintern\\khansacode\\crmportal\\infrastructure\\migrations\\20240725055556_init66.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|d:\\crud\\crmpullbyhania\\muskan\\crmportal\\infrastructure\\migrations\\20240725055556_init66.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2082B7B6-58B5-4BA6-BB37-0863A465B9E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20240725055556_init66.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -131,10 +143,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "District_baseEntities.cs",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Domain\\Models\\BaseEntitiyModels\\District_baseEntities.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\BaseEntitiyModels\\District_baseEntities.cs",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Domain\\Models\\BaseEntitiyModels\\District_baseEntities.cs",
+              "RelativeToolTip": "Domain\\Models\\BaseEntitiyModels\\District_baseEntities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:49:41.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Template.cs",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Domain\\Models\\Entities\\Template.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Entities\\Template.cs",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Domain\\Models\\Entities\\Template.cs",
+              "RelativeToolTip": "Domain\\Models\\Entities\\Template.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:49:18.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TemplateService.cs",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\Services\\TemplateService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\TemplateService.cs",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\Services\\TemplateService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\TemplateService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:48:57.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "20240724075102_Init6.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\Migrations\\20240724075102_Init6.cs",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\Migrations\\20240724075102_Init6.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240724075102_Init6.cs",
-              "ToolTip": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\Migrations\\20240724075102_Init6.cs",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\Migrations\\20240724075102_Init6.cs",
               "RelativeToolTip": "Infrastructure\\Migrations\\20240724075102_Init6.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -143,24 +194,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "20240725062142_Init67.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\Migrations\\20240725062142_Init67.cs",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\Migrations\\20240725062142_Init67.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240725062142_Init67.cs",
-              "ToolTip": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\Migrations\\20240725062142_Init67.cs",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\Migrations\\20240725062142_Init67.cs",
               "RelativeToolTip": "Infrastructure\\Migrations\\20240725062142_Init67.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T06:21:43.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T06:21:43.098Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "LeaveBalance.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\Models\\Entities\\LeaveBalance.cs",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Domain\\Models\\Entities\\LeaveBalance.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Entities\\LeaveBalance.cs",
-              "ToolTip": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\Models\\Entities\\LeaveBalance.cs",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Domain\\Models\\Entities\\LeaveBalance.cs",
               "RelativeToolTip": "Domain\\Models\\Entities\\LeaveBalance.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -168,11 +218,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "20240725055556_Init66.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\Migrations\\20240725055556_Init66.cs",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\Migrations\\20240725055556_Init66.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240725055556_Init66.cs",
-              "ToolTip": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\Migrations\\20240725055556_Init66.cs",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\Migrations\\20240725055556_Init66.cs",
               "RelativeToolTip": "Infrastructure\\Migrations\\20240725055556_Init66.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -180,11 +230,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "20240724124426_init12.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\Migrations\\20240724124426_init12.cs",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\Migrations\\20240724124426_init12.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240724124426_init12.cs",
-              "ToolTip": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\Migrations\\20240724124426_init12.cs",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\Migrations\\20240724124426_init12.cs",
               "RelativeToolTip": "Infrastructure\\Migrations\\20240724124426_init12.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -192,11 +242,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "project.nuget.cache",
-              "DocumentMoniker": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\obj\\project.nuget.cache",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\obj\\project.nuget.cache",
               "RelativeDocumentMoniker": "Infrastructure\\obj\\project.nuget.cache",
-              "ToolTip": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\obj\\project.nuget.cache",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\obj\\project.nuget.cache",
               "RelativeToolTip": "Infrastructure\\obj\\project.nuget.cache",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
@@ -204,11 +254,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "project.assets.json",
-              "DocumentMoniker": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\obj\\project.assets.json",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\obj\\project.assets.json",
               "RelativeDocumentMoniker": "Infrastructure\\obj\\project.assets.json",
-              "ToolTip": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\obj\\project.assets.json",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\obj\\project.assets.json",
               "RelativeToolTip": "Infrastructure\\obj\\project.assets.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -216,11 +266,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Infrastructure.csproj.nuget.g.targets",
-              "DocumentMoniker": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\obj\\Infrastructure.csproj.nuget.g.targets",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\obj\\Infrastructure.csproj.nuget.g.targets",
               "RelativeDocumentMoniker": "Infrastructure\\obj\\Infrastructure.csproj.nuget.g.targets",
-              "ToolTip": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\obj\\Infrastructure.csproj.nuget.g.targets",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\obj\\Infrastructure.csproj.nuget.g.targets",
               "RelativeToolTip": "Infrastructure\\obj\\Infrastructure.csproj.nuget.g.targets",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
@@ -228,11 +278,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Infrastructure.csproj.nuget.g.props",
-              "DocumentMoniker": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\obj\\Infrastructure.csproj.nuget.g.props",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\obj\\Infrastructure.csproj.nuget.g.props",
               "RelativeDocumentMoniker": "Infrastructure\\obj\\Infrastructure.csproj.nuget.g.props",
-              "ToolTip": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\obj\\Infrastructure.csproj.nuget.g.props",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\obj\\Infrastructure.csproj.nuget.g.props",
               "RelativeToolTip": "Infrastructure\\obj\\Infrastructure.csproj.nuget.g.props",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
@@ -240,11 +290,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Infrastructure.csproj.nuget.dgspec.json",
-              "DocumentMoniker": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\obj\\Infrastructure.csproj.nuget.dgspec.json",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\obj\\Infrastructure.csproj.nuget.dgspec.json",
               "RelativeDocumentMoniker": "Infrastructure\\obj\\Infrastructure.csproj.nuget.dgspec.json",
-              "ToolTip": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\obj\\Infrastructure.csproj.nuget.dgspec.json",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\obj\\Infrastructure.csproj.nuget.dgspec.json",
               "RelativeToolTip": "Infrastructure\\obj\\Infrastructure.csproj.nuget.dgspec.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -252,11 +302,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "20240724071020_Shift4.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\Migrations\\20240724071020_Shift4.cs",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\Migrations\\20240724071020_Shift4.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240724071020_Shift4.cs",
-              "ToolTip": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\Migrations\\20240724071020_Shift4.cs",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\Migrations\\20240724071020_Shift4.cs",
               "RelativeToolTip": "Infrastructure\\Migrations\\20240724071020_Shift4.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -264,11 +314,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "LeaveBalanceCustomServices.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Jwt_With_CleanArchitecture\\InjectServices\\LeaveBalanceCustomServices.cs",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Jwt_With_CleanArchitecture\\InjectServices\\LeaveBalanceCustomServices.cs",
               "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\InjectServices\\LeaveBalanceCustomServices.cs",
-              "ToolTip": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Jwt_With_CleanArchitecture\\InjectServices\\LeaveBalanceCustomServices.cs",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Jwt_With_CleanArchitecture\\InjectServices\\LeaveBalanceCustomServices.cs",
               "RelativeToolTip": "Jwt_With_CleanArchitecture\\InjectServices\\LeaveBalanceCustomServices.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -276,11 +326,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "TemplatesContext.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\Context\\TemplatesContext.cs",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\Context\\TemplatesContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Context\\TemplatesContext.cs",
-              "ToolTip": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\Context\\TemplatesContext.cs",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\Context\\TemplatesContext.cs",
               "RelativeToolTip": "Infrastructure\\Context\\TemplatesContext.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAiwA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -288,11 +338,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "LeaveBalanceService.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\Services\\LeaveBalanceService.cs",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\Services\\LeaveBalanceService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\LeaveBalanceService.cs",
-              "ToolTip": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\Services\\LeaveBalanceService.cs",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\Services\\LeaveBalanceService.cs",
               "RelativeToolTip": "Infrastructure\\Services\\LeaveBalanceService.cs",
               "ViewState": "AQIAAIEAAAAAAAAAAAAAACsAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -300,11 +350,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "District.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\Models\\Entities\\District.cs",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Domain\\Models\\Entities\\District.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Entities\\District.cs",
-              "ToolTip": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\Models\\Entities\\District.cs",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Domain\\Models\\Entities\\District.cs",
               "RelativeToolTip": "Domain\\Models\\Entities\\District.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -312,11 +362,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "DistrictController.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\DistrictController.cs",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\DistrictController.cs",
               "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\Controllers\\DistrictController.cs",
-              "ToolTip": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\DistrictController.cs",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Jwt_With_CleanArchitecture\\Controllers\\DistrictController.cs",
               "RelativeToolTip": "Jwt_With_CleanArchitecture\\Controllers\\DistrictController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -324,11 +374,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "IDistrictService.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Application\\Interfaces\\IDistrictService.cs",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Application\\Interfaces\\IDistrictService.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\IDistrictService.cs",
-              "ToolTip": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Application\\Interfaces\\IDistrictService.cs",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Application\\Interfaces\\IDistrictService.cs",
               "RelativeToolTip": "Application\\Interfaces\\IDistrictService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -336,11 +386,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "DistrictService.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\Services\\DistrictService.cs",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\Services\\DistrictService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\DistrictService.cs",
-              "ToolTip": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\Services\\DistrictService.cs",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\Services\\DistrictService.cs",
               "RelativeToolTip": "Infrastructure\\Services\\DistrictService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAJYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -348,11 +398,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Jwt_With_CleanArchitecture\\Program.cs",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Jwt_With_CleanArchitecture\\Program.cs",
               "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\Program.cs",
-              "ToolTip": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Jwt_With_CleanArchitecture\\Program.cs",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Jwt_With_CleanArchitecture\\Program.cs",
               "RelativeToolTip": "Jwt_With_CleanArchitecture\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -360,11 +410,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "DistrictCustomServices.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Jwt_With_CleanArchitecture\\InjectServices\\DistrictCustomServices.cs",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Jwt_With_CleanArchitecture\\InjectServices\\DistrictCustomServices.cs",
               "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\InjectServices\\DistrictCustomServices.cs",
-              "ToolTip": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Jwt_With_CleanArchitecture\\InjectServices\\DistrictCustomServices.cs",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Jwt_With_CleanArchitecture\\InjectServices\\DistrictCustomServices.cs",
               "RelativeToolTip": "Jwt_With_CleanArchitecture\\InjectServices\\DistrictCustomServices.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -372,11 +422,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "CustomServices .cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Jwt_With_CleanArchitecture\\InjectServices\\CustomServices .cs",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Jwt_With_CleanArchitecture\\InjectServices\\CustomServices .cs",
               "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\InjectServices\\CustomServices .cs",
-              "ToolTip": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Jwt_With_CleanArchitecture\\InjectServices\\CustomServices .cs",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Jwt_With_CleanArchitecture\\InjectServices\\CustomServices .cs",
               "RelativeToolTip": "Jwt_With_CleanArchitecture\\InjectServices\\CustomServices .cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -384,11 +434,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Jwt_With_CleanArchitecture\\appsettings.json",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Jwt_With_CleanArchitecture\\appsettings.json",
               "RelativeDocumentMoniker": "Jwt_With_CleanArchitecture\\appsettings.json",
-              "ToolTip": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Jwt_With_CleanArchitecture\\appsettings.json",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Jwt_With_CleanArchitecture\\appsettings.json",
               "RelativeToolTip": "Jwt_With_CleanArchitecture\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -396,35 +446,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 2,
               "Title": "BaseEntities.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\Models\\BaseEntitiyModels\\BaseEntities.cs",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Domain\\Models\\BaseEntitiyModels\\BaseEntities.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\BaseEntitiyModels\\BaseEntities.cs",
-              "ToolTip": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\Models\\BaseEntitiyModels\\BaseEntities.cs",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Domain\\Models\\BaseEntitiyModels\\BaseEntities.cs",
               "RelativeToolTip": "Domain\\Models\\BaseEntitiyModels\\BaseEntities.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T05:14:09.106Z"
+              "WhenOpened": "2024-07-25T05:14:09.106Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 1,
               "Title": "base-entities.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\Models\\BaseEntitiyModels\\base-entities.cs",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Domain\\Models\\BaseEntitiyModels\\base-entities.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\BaseEntitiyModels\\base-entities.cs",
-              "ToolTip": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\Models\\BaseEntitiyModels\\base-entities.cs",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Domain\\Models\\BaseEntitiyModels\\base-entities.cs",
               "RelativeToolTip": "Domain\\Models\\BaseEntitiyModels\\base-entities.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T05:14:01.053Z"
+              "WhenOpened": "2024-07-25T05:14:01.053Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "ResponseVm.cs",
-              "DocumentMoniker": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Application\\DTMs\\Responses\\ResponseVm.cs",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Application\\DTMs\\Responses\\ResponseVm.cs",
               "RelativeDocumentMoniker": "Application\\DTMs\\Responses\\ResponseVm.cs",
-              "ToolTip": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Application\\DTMs\\Responses\\ResponseVm.cs",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Application\\DTMs\\Responses\\ResponseVm.cs",
               "RelativeToolTip": "Application\\DTMs\\Responses\\ResponseVm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -432,11 +484,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Infrastructure.csproj",
-              "DocumentMoniker": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\Infrastructure.csproj",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\Infrastructure.csproj",
               "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
-              "ToolTip": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\Infrastructure.csproj",
               "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -444,11 +496,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "Domain.csproj",
-              "DocumentMoniker": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\Domain.csproj",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Domain\\Domain.csproj",
               "RelativeDocumentMoniker": "Domain\\Domain.csproj",
-              "ToolTip": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\Domain.csproj",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Domain\\Domain.csproj",
               "RelativeToolTip": "Domain\\Domain.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -456,11 +508,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "Common.csproj",
-              "DocumentMoniker": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Common\\Common.csproj",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Common\\Common.csproj",
               "RelativeDocumentMoniker": "Common\\Common.csproj",
-              "ToolTip": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Common\\Common.csproj",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Common\\Common.csproj",
               "RelativeToolTip": "Common\\Common.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -468,11 +520,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Application.csproj",
-              "DocumentMoniker": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Application\\Application.csproj",
+              "DocumentMoniker": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Application\\Application.csproj",
               "RelativeDocumentMoniker": "Application\\Application.csproj",
-              "ToolTip": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Application\\Application.csproj",
+              "ToolTip": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Application\\Application.csproj",
               "RelativeToolTip": "Application\\Application.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

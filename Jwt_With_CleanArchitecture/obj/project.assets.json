@@ -5648,19 +5648,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+    "C:\\Users\\abc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
+      "projectUniqueName": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
       "projectName": "Jwt_With_CleanArchitecture",
-      "projectPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Jwt_With_CleanArchitecture\\obj\\",
+      "projectPath": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Jwt_With_CleanArchitecture\\Jwt_With_CleanArchitecture.csproj",
+      "packagesPath": "C:\\Users\\abc\\.nuget\\packages\\",
+      "outputPath": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Jwt_With_CleanArchitecture\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\abc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5675,17 +5675,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Application\\Application.csproj": {
-              "projectPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Application\\Application.csproj"
+            "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Application\\Application.csproj": {
+              "projectPath": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Application\\Application.csproj"
             },
-            "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Common\\Common.csproj": {
-              "projectPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Common\\Common.csproj"
+            "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Common\\Common.csproj": {
+              "projectPath": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Common\\Common.csproj"
             },
-            "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Domain\\Domain.csproj"
+            "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Domain\\Domain.csproj"
             },
-            "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\WordSenseIntern\\KhansaCode\\CRMPortal\\Infrastructure\\Infrastructure.csproj"
+            "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\crud\\CrmPullByHania\\muskan\\CRMPortal\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
